@@ -28,6 +28,8 @@ We're interested in public sources of the following data, ideally available in G
 * [Neighborhood Boundaries](https://data.bloomington.in.gov/dataset/individual-neighborhood-maps)
  * [Existing Sidewalk Infrastructure](https://data.bloomington.in.gov/dataset/sidewalk-maps)
  * [Racial/density map by census district](http://racialdotmap.demographics.coopercenter.org/)
+   * [Racial demographic dot-density map](https://observablehq.com/@aboutaaron/racial-demographic-dot-density-map) describes to build a racial dot map for specific city. Their
+     solution produces a more flexible result, allowing you select just which combinations of race categories you want to display.
  * [Income Map](http://www.city-data.com/income/income-Bloomington-Indiana.html)
  * [Motor Vehicle / Ped Crash Density Map](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=20&zoom=280,-207,624). Currently on page
  * [Motor Vehicle / Bike Crash Density Map](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=21&zoom=280,-207,624). Currently on page
