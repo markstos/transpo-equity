@@ -29,6 +29,7 @@ We're interested in public sources of the following data, ideally available in G
  * Locations and other details of sidewalk projects funded by the Sidewalk Committee
  * Locations and other details of sidewalk projects recommended by the Transportation and Planning
    department, whether they were funded or not.
+ * [Walk Score](https://www.walkscore.com/) (not public but a free tier of use is available) 
 
 
 ## Milestones
