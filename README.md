@@ -19,12 +19,12 @@ The following public data sources have been located in GeoJSON format.
  * [Bicycle And Pedestrian On Road Bike Facilities](https://data.bloomington.in.gov/dataset/bicycle-and-pedestrian-on-road-bike-facilities-gis-data) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:BikeLanesRoutes&outputFormat=application%2Fjson))
  * [Bicycle and Pedestrian Trails and Paths](https://data.bloomington.in.gov/dataset/bicycle-and-pedestrian-facilities-trails-and-paths-gis-data) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:TrailsAndPaths&outputFormat=application/json))
  * [Bloomington Municipal Boundary](https://data.bloomington.in.gov/dataset/bloomington-municipal-boundary-gis-data) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:BloomingtonMunicipalBoundary&outputFormat=application%2Fjson))
+ * [Census tract boundaries](./geojson/bloomington-2010-census-tracts.geojson)
 
 ## Desired Data Sources
 
 We're interested in public sources of the following data, ideally available in GeoJSON format.
 
- * Census district boundaries
 * [Neighborhood Boundaries](https://data.bloomington.in.gov/dataset/individual-neighborhood-maps)
  * [Existing Sidewalk Infrastructure](https://data.bloomington.in.gov/dataset/sidewalk-maps)
  * [Racial/density map by census district](http://racialdotmap.demographics.coopercenter.org/)
