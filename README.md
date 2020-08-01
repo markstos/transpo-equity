@@ -42,6 +42,10 @@ We're interested in public sources of the following data, ideally available in G
  * [Walk Score](https://www.walkscore.com/) (not public but a free tier of use is available)
 
 
+## Tools
+
+ * [MyGeodata Converter](https://mygeodata.cloud/sitemap/conversionslist?style=converter&type=1) converts many other vector formats to GeoJSON.
+
 ## Milestones
 
 See the Issue Tracker to track sub-tasks and milestones for this project.
