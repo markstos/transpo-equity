@@ -1,0 +1,35 @@
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+   <script src='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js'></script>
+   <link href='https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css' rel='stylesheet' />
+  </head>
+  <body>
+    <div id='map' style='width: 600px; height: 400px;'></div>
+    <script>
+    mapboxgl.accessToken = 'pk.eyJ1IjoibWFya3N0b3MiLCJhIjoiY2tkZHR2NGt1MWI0djMzbDBjcGJyNzNpaSJ9.FW7auxgPtTqCZh2tDJVcvA';
+    var map = new mapboxgl.Map({
+    container: 'map',
+    style: 'mapbox://styles/markstos/ckddtx1ah1j791ivvdgu291lt',
+    // Center of Bloomington
+    center: [-86.525719, 39.152195 ],
+    zoom: 11,
+    });
+
+    map.on('load', function () {
+      map.addSource('census', { type: 'geojson', data: './geojson/bloomington-2010-census-tracts.geojson' });
+      map.addLayer({
+        'id': 'census',
+        'type': 'line',
+        'source': 'census',
+        "paint": {
+         "line-color": "#00ffff"
+        }
+      });
+    });
+
+    </script>
+    <p>This is a proof-of-concept of displaying a GeoJSON layer.
+       The first layer is a cropped version of census tracts.</p>
+  </body>
+</html>
