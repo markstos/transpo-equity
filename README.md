@@ -20,18 +20,19 @@ The following public data sources have been located in GeoJSON format.
  * [Bicycle and Pedestrian Trails and Paths](https://data.bloomington.in.gov/dataset/bicycle-and-pedestrian-facilities-trails-and-paths-gis-data) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:TrailsAndPaths&outputFormat=application/json))
  * [Bloomington Municipal Boundary](https://data.bloomington.in.gov/dataset/bloomington-municipal-boundary-gis-data) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:BloomingtonMunicipalBoundary&outputFormat=application%2Fjson))
  * [Census tract boundaries](./geojson/bloomington-2010-census-tracts.geojson)
+ * [Bloomington, IN Neighborhood boundries](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:CityNeighborhoodAssociations&outputFormat=application%2Fjson)
+ * [Bloomington, IN current Sidewalks](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:SidewalkInventory&outputFormat=application%2Fjson)
+ * Council Sidewalk Reports from 2014, 2015, 2016, 2019, 2020
 
 ## Desired Data Sources
 
 We're interested in public sources of the following data, ideally available in GeoJSON format.
 
-* [Neighborhood Boundaries](https://data.bloomington.in.gov/dataset/individual-neighborhood-maps)
- * [Existing Sidewalk Infrastructure](https://data.bloomington.in.gov/dataset/sidewalk-maps)
  * [Racial/density map by census district](http://racialdotmap.demographics.coopercenter.org/)
    * [Racial demographic dot-density map](https://observablehq.com/@aboutaaron/racial-demographic-dot-density-map) describes to build a racial dot map for specific city. Their
      solution produces a more flexible result, allowing you select just which combinations of race categories you want to display.
  * [Income Map](http://www.city-data.com/income/income-Bloomington-Indiana.html)
- * [Motor Vehicle / Ped Crash Density Map](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=20&zoom=280,-207,624). Currently on page
+ * [Motor Vehicle / Ped Crash Density Map](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=20&zoom=280,-207,624). Currently on page 20 of the Transportation Plan.
  * [Motor Vehicle / Bike Crash Density Map](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=21&zoom=280,-207,624). Currently on page
  21 of the Transportation Plan
  * [Planned Bicycle Facilities Network](https://bloomington.in.gov/sites/default/files/2019-07/05.22.2019%20Transportation%20Plan%20Council%20Approved%20edits_0.pdf#page=47&zoom=280,-207,792). Currently in the Transportation Plan. Page 47.
@@ -41,6 +42,8 @@ We're interested in public sources of the following data, ideally available in G
    department, whether they were funded or not.
  * [Walk Score](https://www.walkscore.com/) (not public but a free tier of use is available)
 
+The Council Sidewalk reports from 2017 and 2018 reports were requested from the Bloomington City Clerk on August 29th, 2020.
+Vector City GIS maps above were required from the Bloomingotn GIS Department on August 29th, 2020.
 
 ## Tools
 
