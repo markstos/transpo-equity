@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TENTH-1",
+        "description": "East 10th – Sidewalk from Smith Rd to Deckard Drive (South Side)",
+        "totalCost": 300000,
+        "designYear": "2016",
+        "designCost": 50000,
+        "constructionYear": "2017",
+        "constructionCost": 250000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48256987333298,
+            39.17263579733625
+          ],
+          [
+            -86.48203879594803,
+            39.17368171392174
+          ],
+          [
+            -86.48216217756271,
+            39.17371706271947
+          ]
+        ]
+      }
+    }
+  ]
+}

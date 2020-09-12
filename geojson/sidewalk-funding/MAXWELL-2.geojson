@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-2",
+        "description": "Design - East Maxwell Lane – Highland to Sheridan (north side)",
+        "totalCost": 10000,
+        "designYear": "2006",
+        "designCost": 10000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51772558689117,
+            39.157835346143145
+          ],
+          [
+            -86.5146142244339,
+            39.15782702690234
+          ]
+        ]
+      }
+    }
+  ]
+}

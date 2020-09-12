@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-1",
+        "description": "Design - Henderson Street from Maxwell Lane to\nHillside Drive",
+        "totalCost": 45000,
+        "designYear": "2007",
+        "designCost": 45000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5269899368286,
+            39.157835346143145
+          ],
+          [
+            -86.52681827545166,
+            39.15063051518964
+          ]
+        ]
+      }
+    }
+  ]
+}

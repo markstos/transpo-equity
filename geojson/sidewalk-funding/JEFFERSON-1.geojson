@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JEFFERSON-1",
+        "description": "Sidewalk on Jefferson Street from 7th to 8th Street (east side)",
+        "totalCost": 114000,
+        "constructionYear": "2005",
+        "constructionCost": 114000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50715231895447,
+            39.169473000651514
+          ],
+          [
+            -86.50714695453642,
+            39.16824610500171
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QUEENS-2",
+        "description": "Queens Way - Sussex to High (south side)",
+        "totalCost": 25969.68,
+        "constructionYear": "2006",
+        "constructionCost": 25969.68,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50716304779053,
+            39.14639546086464
+          ],
+          [
+            -86.50826275348663,
+            39.14638714027134
+          ]
+        ]
+      }
+    }
+  ]
+}

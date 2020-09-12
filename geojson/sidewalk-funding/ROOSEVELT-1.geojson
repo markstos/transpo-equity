@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROOSEVELT-1",
+        "description": "Roosevelt Street - Fourth to Fifth (east side)",
+        "totalCost": 133665.41,
+        "designYear": "2005",
+        "designCost": 6395.62,
+        "constructionYear": "2006",
+        "constructionCost": 127269.79,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50602579116821,
+            39.16677380196996
+          ],
+          [
+            -86.505988240242,
+            39.16563004246845
+          ]
+        ]
+      }
+    }
+  ]
+}

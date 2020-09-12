@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-5",
+        "description": "E. Moore’s Pike / S. Smith Road intersection crossing",
+        "totalCost": 28000,
+        "constructionYear": "2020",
+        "constructionCost": 28000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48055285215378,
+            39.15031123092905
+          ],
+          [
+            -86.48056089878082,
+            39.15015626833909
+          ],
+          [
+            -86.48033291101456,
+            39.15015106824625
+          ]
+        ]
+      }
+    }
+  ]
+}

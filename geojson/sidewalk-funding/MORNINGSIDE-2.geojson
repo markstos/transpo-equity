@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MORNINGSIDE-2",
+        "description": "Morningside Drive – Saratoga to Sheffield (North Side)",
+        "totalCost": 19866,
+        "constructionYear": "2012",
+        "constructionCost": 19866,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48040533065796,
+            39.16642443740422
+          ],
+          [
+            -86.47968649864197,
+            39.16692352910975
+          ]
+        ]
+      }
+    }
+  ]
+}

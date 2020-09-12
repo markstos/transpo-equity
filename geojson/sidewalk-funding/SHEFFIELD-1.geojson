@@ -1,0 +1,53 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SHEFFIELD-1",
+        "description": "Sheffield- Construction of Missing Segments (Morningside to Providence (West Side)",
+        "totalCost": 130143,
+        "constructionYear": "2015",
+        "constructionCost": 75000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.47973477840424,
+            39.16691937002684
+          ],
+          [
+            -86.48000299930573,
+            39.167202187104664
+          ],
+          [
+            -86.48009955883026,
+            39.16747668494558
+          ],
+          [
+            -86.48010492324829,
+            39.16810469870381
+          ],
+          [
+            -86.48010492324829,
+            39.16837087502848
+          ],
+          [
+            -86.48000299930573,
+            39.16862041441792
+          ],
+          [
+            -86.47968649864197,
+            39.168828363232805
+          ],
+          [
+            -86.47934854030609,
+            39.16902383455817
+          ]
+        ]
+      }
+    }
+  ]
+}

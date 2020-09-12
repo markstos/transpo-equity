@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-3",
+        "description": "West 17th – Acquistion (Four parcels west of Maple to Madison (South Side)",
+        "totalCost": 128810.3,
+        "designYear": "2014",
+        "designCost": 58810.3,
+        "constructionYear": "2015",
+        "constructionCost": 70000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54198348522186,
+            39.179017101945696
+          ],
+          [
+            -86.54149532318115,
+            39.17900046847343
+          ],
+          [
+            -86.53779923915863,
+            39.17896720151716
+          ]
+        ]
+      }
+    }
+  ]
+}

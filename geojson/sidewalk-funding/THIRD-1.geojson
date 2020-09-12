@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "THIRD-1",
+        "description": "East Third Street (north side) – Construction of Sidewalk from Bryan to Hillsdale",
+        "totalCost": 632114.96,
+        "acquisitionYear": "2009",
+        "acquisitionCost": 50000,
+        "constructionYear": "2011",
+        "constructionCost": 304811,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50821447372435,
+            39.16430741738354
+          ],
+          [
+            -86.50267839431763,
+            39.16430741738354
+          ]
+        ]
+      }
+    }
+  ]
+}

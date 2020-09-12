@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WINFIELD-1",
+        "description": "Sidewalk on Winfield Road from Fairoaks Lane to existing Sidewalk south of Rechter Road (east side)",
+        "totalCost": 27000,
+        "constructionYear": "2005",
+        "constructionCost": 27000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50118708610535,
+            39.15291018351507
+          ],
+          [
+            -86.50203466415405,
+            39.15380039890572
+          ],
+          [
+            -86.50213122367857,
+            39.15397511275382
+          ],
+          [
+            -86.50217950344086,
+            39.154274621198475
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ELEVENTH-1",
+        "description": "Design – East 11th Street – Washington to Lincoln (north side)",
+        "totalCost": 10000,
+        "designYear": "2006",
+        "designCost": 10000,
+        "councilDistrict": "6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53104543685913,
+            39.173507049013374
+          ],
+          [
+            -86.5322095155716,
+            39.173507049013374
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WALNUT-1",
+        "description": "Walnut Street from Winston Thomas to National Guard",
+        "totalCost": 76000,
+        "constructionYear": "2018",
+        "constructionCost": 63000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53153896331787,
+            39.128786884524054
+          ],
+          [
+            -86.53163552284241,
+            39.12587388838541
+          ]
+        ]
+      }
+    }
+  ]
+}

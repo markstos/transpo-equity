@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MITCHELL-1",
+        "description": "Mitchell Street – From Maxwell Lane to Circle Drive (East Side)",
+        "totalCost": 997000,
+        "designYear": "2016",
+        "designCost": 22000,
+        "constructionYear": "2019",
+        "constructionCost": 777000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51368618011475,
+            39.157752153690964
+          ],
+          [
+            -86.51371836662292,
+            39.156911904410116
+          ],
+          [
+            -86.51378273963928,
+            39.15633786695389
+          ],
+          [
+            -86.51393294334412,
+            39.15592189485627
+          ]
+        ]
+      }
+    }
+  ]
+}

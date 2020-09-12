@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@turf/boolean-within": "^6.0.1",
+    "csv": "^5.3.2",
+    "jsonlint": "^1.6.3",
+    "ogr2ogr": "^2.0.1",
+    "reproject": "^1.2.6"
+  },
+  "engines" : { "node" : ">=14" }
+}

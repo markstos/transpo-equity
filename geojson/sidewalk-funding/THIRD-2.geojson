@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "THIRD-2",
+        "description": "Third Street – Overhill Drive to Travel Lodge (North Side)",
+        "totalCost": 154474,
+        "constructionYear": "2012",
+        "constructionCost": 154474,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50162428617477,
+            39.16427622309547
+          ],
+          [
+            -86.49960458278656,
+            39.1642741434758
+          ]
+        ]
+      }
+    }
+  ]
+}

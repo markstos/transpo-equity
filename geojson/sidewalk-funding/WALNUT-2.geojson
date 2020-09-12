@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WALNUT-2",
+        "description": "S. Walnut Street – from E. Winslow Rd to E. Ridgeview Drive (East Side)",
+        "totalCost": 32000,
+        "constructionYear": "2020",
+        "constructionCost": 32000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53136193752289,
+            39.13201184686105
+          ],
+          [
+            -86.53136730194092,
+            39.13277749364539
+          ],
+          [
+            -86.53133511543274,
+            39.134758149964824
+          ],
+          [
+            -86.53107225894928,
+            39.13592321589337
+          ]
+        ]
+      }
+    }
+  ]
+}

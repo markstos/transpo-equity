@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UNION-1",
+        "description": "Union Street – Sidewalk from 4th to 7th (West Side) – Design",
+        "totalCost": 32000,
+        "designYear": "2016",
+        "designCost": 32000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50946974754333,
+            39.165580132539425
+          ],
+          [
+            -86.50953412055969,
+            39.16805063151476
+          ]
+        ]
+      }
+    }
+  ]
+}

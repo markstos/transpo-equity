@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-4",
+        "description": "Moore’s Pike and Clarizz Pedestrian Crossing",
+        "totalCost": 103000,
+        "constructionYear": "2018",
+        "constructionCost": 95000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.4915432035923,
+            39.15041003240224
+          ],
+          [
+            -86.4915432035923,
+            39.150225949545906
+          ]
+        ]
+      }
+    }
+  ]
+}

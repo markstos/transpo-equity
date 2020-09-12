@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ARDEN-1",
+        "description": "Construction - Arden Drive – From Windsor to High Street (South Side)",
+        "totalCost": 52353.5,
+        "designYear": "2006",
+        "designCost": 5000,
+        "constructionYear": "2007",
+        "constructionCost": 47353.5,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50840222835541,
+            39.14726079719818
+          ],
+          [
+            -86.50890648365021,
+            39.14726079719818
+          ],
+          [
+            -86.50909960269928,
+            39.14727327793286
+          ],
+          [
+            -86.50935173034668,
+            39.147352322534395
+          ]
+        ]
+      }
+    }
+  ]
+}

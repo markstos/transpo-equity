@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROCKPORT-2",
+        "description": "Rockport Road – West Pinehurst Drive to South of Graham Drive (West Side)",
+        "totalCost": 222000,
+        "constructionYear": "2017",
+        "constructionCost": 200000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54682487249374,
+            39.13830321923221
+          ],
+          [
+            -86.54522895812988,
+            39.139959188077746
+          ]
+        ]
+      }
+    }
+  ]
+}

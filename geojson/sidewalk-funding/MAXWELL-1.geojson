@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-1",
+        "description": "Sidewalk on Maxwell Lane from Clifton Sidepath to High Street (north side)",
+        "totalCost": 65175,
+        "constructionYear": "2005",
+        "constructionCost": 65175,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5097165107727,
+            39.15779167011801
+          ],
+          [
+            -86.50848805904388,
+            39.15779790955182
+          ]
+        ]
+      }
+    }
+  ]
+}

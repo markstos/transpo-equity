@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-2",
+        "description": "West 17th – Construction of a Sidewalk Madison to College Avenue (South Side)",
+        "totalCost": 283837,
+        "designYear": "2011",
+        "designCost": 15638,
+        "constructionYear": "2013",
+        "constructionCost": 268199,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53769195079803,
+            39.178954726404484
+          ],
+          [
+            -86.53477370738983,
+            39.178946409661485
+          ]
+        ]
+      }
+    }
+  ]
+}

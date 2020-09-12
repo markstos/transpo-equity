@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NANCY-1",
+        "description": "Sidewalk on Nancy Street from Ruby Lane to Marilyn Drive (west side)",
+        "totalCost": 45627.52,
+        "constructionYear": "2005",
+        "constructionCost": 45627.52,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51111125946045,
+            39.15462820591581
+          ],
+          [
+            -86.51109784841537,
+            39.153613205015695
+          ]
+        ]
+      }
+    }
+  ]
+}

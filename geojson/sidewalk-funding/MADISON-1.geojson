@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MADISON-1",
+        "description": "Construction – Madison Street from Third Street to Prospect Street High Speed Tire (east side)",
+        "totalCost": 43773,
+        "constructionYear": "2009",
+        "constructionCost": 43773,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53732717037201,
+            39.16459440418446
+          ],
+          [
+            -86.53733253479004,
+            39.16375423662301
+          ]
+        ]
+      }
+    }
+  ]
+}

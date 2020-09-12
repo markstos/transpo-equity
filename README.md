@@ -22,7 +22,9 @@ The following public data sources have been located in GeoJSON format.
  * [Census tract boundaries](./geojson/bloomington-2010-census-tracts.geojson)
  * [Bloomington, IN Neighborhood boundries](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:CityNeighborhoodAssociations&outputFormat=application%2Fjson)
  * [Bloomington, IN current Sidewalks](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:SidewalkInventory&outputFormat=application%2Fjson)
- * Council Sidewalk Reports from 2014, 2015, 2016, 2019, 2020
+ * [Bloomington, IN Road Centerline](https://data.bloomington.in.gov/dataset/road-centerline-gis-data/resource/75f934c3-91e0-4dd8-93da-a41ee6320a92) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:RoadCenterlines&outputFormat=application%2Fjson))
+ * Council Sidewalk Reports from 2004 - 2020
+
 
 ## Desired Data Sources
 
@@ -44,6 +46,16 @@ We're interested in public sources of the following data, ideally available in G
 
 The Council Sidewalk reports from 2017 and 2018 reports were requested from the Bloomington City Clerk on August 29th, 2020.
 Vector City GIS maps above were required from the Bloomingotn GIS Department on August 29th, 2020.
+
+## Notes on City of Bloomington, Indiana GeoJSON Format
+
+As of September 7th, 2020, the City of Bloomington, Indiana was publishing their GeoJSON
+using the EPSG:2966 Coordinate reference system. The current GeoJSON specfication only allows
+for WSG84 as the coordinate reference system. I've recommended to Bloomington that they
+update their GeoJSON for better interopability. In the meantime, I found a tool to convert
+the coordinate reference system after downloading it:
+
+   ogr2ogr out.geojson -t_srs "WGS84" geojson/city-council-districts-2020.geojson
 
 ## Tools
 

@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-3",
+        "description": "Maxwell Lane, Highland to Jordan (North Side)",
+        "totalCost": 87000,
+        "constructionYear": "2013",
+        "constructionCost": 87000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51638984680176,
+            39.15784782500247
+          ],
+          [
+            -86.51772558689117,
+            39.15786446347815
+          ]
+        ]
+      }
+    }
+  ]
+}

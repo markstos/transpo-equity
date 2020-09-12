@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-1",
+        "description": "Construction – West 17th from Lindbergh to Arlington Park Drive",
+        "totalCost": 27337.21,
+        "constructionYear": "2008",
+        "constructionCost": 27337.21,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.55268549919128,
+            39.17905348765249
+          ],
+          [
+            -86.55322328209877,
+            39.17906804192995
+          ],
+          [
+            -86.55330374836922,
+            39.179038933372034
+          ],
+          [
+            -86.55431762337685,
+            39.17904725010409
+          ]
+        ]
+      }
+    }
+  ]
+}

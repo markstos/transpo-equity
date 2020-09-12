@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-5",
+        "description": "Maxwell St from E. Miller Drive to north of E. Short St. (West Side)",
+        "totalCost": 136000,
+        "constructionYear": "2020",
+        "constructionCost": 123000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51508629322052,
+            39.1467823673672
+          ],
+          [
+            -86.51507556438446,
+            39.14406981675275
+          ]
+        ]
+      }
+    }
+  ]
+}

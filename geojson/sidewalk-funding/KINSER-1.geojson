@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KINSER-1",
+        "description": "Kinser Pike from Marathon Station to SR 45/46 (west side)",
+        "totalCost": 54751.14,
+        "constructionYear": "2009",
+        "constructionCost": 54751.14,
+        "councilDistrict": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5379199385643,
+            39.18637286931817
+          ],
+          [
+            -86.53785288333893,
+            39.18632921101387
+          ],
+          [
+            -86.53780192136765,
+            39.1861712093049
+          ],
+          [
+            -86.53780192136765,
+            39.18586559972836
+          ],
+          [
+            -86.5378126502037,
+            39.185643148384635
+          ],
+          [
+            -86.53787702322006,
+            39.18552464597953
+          ]
+        ]
+      }
+    }
+  ]
+}

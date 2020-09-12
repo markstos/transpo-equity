@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QUEENS-1",
+        "description": "Sidewalk on Queens Way from Chelsey to Sussex (south side)",
+        "totalCost": 35729,
+        "constructionYear": "2005",
+        "constructionCost": 35729,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50544106960297,
+            39.14631641518851
+          ],
+          [
+            -86.50570929050446,
+            39.14637049908178
+          ],
+          [
+            -86.50603115558624,
+            39.146412102048316
+          ],
+          [
+            -86.50711476802826,
+            39.14639546086464
+          ]
+        ]
+      }
+    }
+  ]
+}

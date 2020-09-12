@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROCKPORT-1",
+        "description": "Rockport Road – Aquisition of Right-of-Way – Coolidge North 310 Feet (West side)",
+        "totalCost": 34560,
+        "constructionYear": "2012",
+        "constructionCost": 34560,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54405951499939,
+            39.141261467874536
+          ],
+          [
+            -86.54338359832764,
+            39.1419854085254
+          ]
+        ]
+      }
+    }
+  ]
+}

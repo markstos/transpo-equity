@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-2",
+        "description": "Construction – Henderson from Allen to Hillside Street (west side)",
+        "totalCost": 3667.21,
+        "constructionYear": "2008",
+        "constructionCost": 3667.21,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.52707576751709,
+            39.15555583737609
+          ],
+          [
+            -86.5269899368286,
+            39.154233022879616
+          ],
+          [
+            -86.5269899368286,
+            39.1533261734171
+          ],
+          [
+            -86.52695775032043,
+            39.15248587128159
+          ],
+          [
+            -86.52693629264832,
+            39.15064715537198
+          ]
+        ]
+      }
+    }
+  ]
+}

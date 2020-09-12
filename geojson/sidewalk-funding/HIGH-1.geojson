@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HIGH-1",
+        "description": "Construction – High Street Across from Childs School (west side)",
+        "totalCost": 21785.05,
+        "constructionYear": "2008",
+        "constructionCost": 21785.05,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5082573890686,
+            39.13972202910012
+          ],
+          [
+            -86.50819301605225,
+            39.13707994085119
+          ]
+        ]
+      }
+    }
+  ]
+}

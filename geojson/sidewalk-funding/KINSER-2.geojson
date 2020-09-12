@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KINSER-2",
+        "description": "Kinser Pike – North of 17th Street to Apartments (East Side)",
+        "totalCost": 181919.8,
+        "designYear": "2014",
+        "designCost": 38068.8,
+        "constructionYear": "2015",
+        "constructionCost": 143851,
+        "councilDistrict": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53767049312592,
+            39.181416439088764
+          ],
+          [
+            -86.53767049312592,
+            39.17913769450175
+          ]
+        ]
+      }
+    }
+  ]
+}

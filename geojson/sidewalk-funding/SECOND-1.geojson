@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SECOND-1",
+        "description": "Construction – East 2nd Street from Woodcrest for one parcel east (north side)",
+        "totalCost": 37319,
+        "designYear": "2006",
+        "designCost": 5000,
+        "constructionYear": "2008",
+        "constructionCost": 32319,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50243699550629,
+            39.1609841081322
+          ],
+          [
+            -86.50143921375275,
+            39.1609841081322
+          ]
+        ]
+      }
+    }
+  ]
+}

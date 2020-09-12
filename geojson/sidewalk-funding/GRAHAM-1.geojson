@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GRAHAM-1",
+        "description": "W. Graham Drive Traffic Calming",
+        "totalCost": 60000,
+        "constructionYear": "2020",
+        "constructionCost": 60000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5450358390808,
+            39.139979991458716
+          ],
+          [
+            -86.53870582580566,
+            39.13983020697846
+          ]
+        ]
+      }
+    }
+  ]
+}

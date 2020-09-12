@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-3",
+        "description": "Henderson Street from Thornton to Moody  (east side)",
+        "totalCost": 148725.07,
+        "constructionYear": "2009",
+        "constructionCost": 99319.17,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.52678608894347,
+            39.14870022733891
+          ],
+          [
+            -86.52681827545166,
+            39.14793475370361
+          ]
+        ]
+      }
+    }
+  ]
+}

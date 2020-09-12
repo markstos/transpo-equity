@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MARILYN-1",
+        "description": "Marilyn (south side) -- Nancy to High Street",
+        "totalCost": 355478.54000000004,
+        "designYear": "2005",
+        "designCost": 11497.54,
+        "constructionYear": "2010",
+        "constructionCost": 189937,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51108980178833,
+            39.15357576617791
+          ],
+          [
+            -86.50860071182251,
+            39.15357576617791
+          ]
+        ]
+      }
+    }
+  ]
+}

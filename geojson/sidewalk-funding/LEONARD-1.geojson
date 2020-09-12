@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LEONARD-1",
+        "description": "Leonard Springs Pedestrian Project (Walmart Entrance south to Tapp Road (East Side)",
+        "totalCost": 15000,
+        "constructionYear": "2014",
+        "constructionCost": 15000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.58255457878113,
+            39.14063737513129
+          ],
+          [
+            -86.58252239227295,
+            39.13683445045228
+          ]
+        ]
+      }
+    }
+  ]
+}

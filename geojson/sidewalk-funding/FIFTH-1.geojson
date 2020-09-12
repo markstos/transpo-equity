@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIFTH-1",
+        "description": "Construction – East 5th Street – From Hillsdale to the Deadend at 45/46",
+        "totalCost": 163132.13,
+        "constructionYear": "2008",
+        "constructionCost": 70485.63,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50340795516968,
+            39.16659496080191
+          ],
+          [
+            -86.50188446044922,
+            39.165987729256756
+          ],
+          [
+            -86.50131583213806,
+            39.16592118301526
+          ],
+          [
+            -86.5000069141388,
+            39.165954456143865
+          ]
+        ]
+      }
+    }
+  ]
+}
