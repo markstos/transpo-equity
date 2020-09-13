@@ -1,0 +1,1395 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ADAMS-1",
+        "description": "Adams Street from W. Kirkwood Ave to Fountain Drive – Design",
+        "totalCost": 31000,
+        "designYear": "2020",
+        "designCost": 31000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53135657310486,
+            39.13199104112574
+          ],
+          [
+            -86.5313458442688,
+            39.13470405714987
+          ],
+          [
+            -86.53101325035095,
+            39.13592737680857
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ARDEN-1",
+        "description": "Construction - Arden Drive – From Windsor to High Street (South Side)",
+        "totalCost": 52353.5,
+        "designYear": "2006",
+        "designCost": 5000,
+        "constructionYear": "2007",
+        "constructionCost": 47353.5,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50840222835541,
+            39.14726079719818
+          ],
+          [
+            -86.50890648365021,
+            39.14726079719818
+          ],
+          [
+            -86.50909960269928,
+            39.14727327793286
+          ],
+          [
+            -86.50935173034668,
+            39.147352322534395
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ELEVENTH-1",
+        "description": "Design – East 11th Street – Washington to Lincoln (north side)",
+        "totalCost": 10000,
+        "designYear": "2006",
+        "designCost": 10000,
+        "councilDistrict": "6"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53104543685913,
+            39.173507049013374
+          ],
+          [
+            -86.5322095155716,
+            39.173507049013374
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FIFTH-1",
+        "description": "Construction – East 5th Street – From Hillsdale to the Deadend at 45/46",
+        "totalCost": 163132.13,
+        "constructionYear": "2008",
+        "constructionCost": 70485.63,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50340795516968,
+            39.16659496080191
+          ],
+          [
+            -86.50188446044922,
+            39.165987729256756
+          ],
+          [
+            -86.50131583213806,
+            39.16592118301526
+          ],
+          [
+            -86.5000069141388,
+            39.165954456143865
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "FOURTEEN-1",
+        "description": "14th Street from Madison to Woodburn (North Side)",
+        "totalCost": 342000,
+        "designYear": "2019",
+        "designCost": 186000,
+        "constructionYear": "2020",
+        "constructionCost": 156000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53602093458176,
+            39.1759980622716
+          ],
+          [
+            -86.53768658638,
+            39.17599390372536
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "GRAHAM-1",
+        "description": "W. Graham Drive Traffic Calming",
+        "totalCost": 60000,
+        "constructionYear": "2020",
+        "constructionCost": 60000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5450358390808,
+            39.139979991458716
+          ],
+          [
+            -86.53870582580566,
+            39.13983020697846
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-1",
+        "description": "Design - Henderson Street from Maxwell Lane to\nHillside Drive",
+        "totalCost": 45000,
+        "designYear": "2007",
+        "designCost": 45000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5269899368286,
+            39.157835346143145
+          ],
+          [
+            -86.52681827545166,
+            39.15063051518964
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-2",
+        "description": "Construction – Henderson from Allen to Hillside Street (west side)",
+        "totalCost": 3667.21,
+        "constructionYear": "2008",
+        "constructionCost": 3667.21,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.52707576751709,
+            39.15555583737609
+          ],
+          [
+            -86.5269899368286,
+            39.154233022879616
+          ],
+          [
+            -86.5269899368286,
+            39.1533261734171
+          ],
+          [
+            -86.52695775032043,
+            39.15248587128159
+          ],
+          [
+            -86.52693629264832,
+            39.15064715537198
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HENDERSON-3",
+        "description": "Henderson Street from Thornton to Moody  (east side)",
+        "totalCost": 148725.07,
+        "constructionYear": "2009",
+        "constructionCost": 99319.17,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.52678608894347,
+            39.14870022733891
+          ],
+          [
+            -86.52681827545166,
+            39.14793475370361
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "HIGH-1",
+        "description": "Construction – High Street Across from Childs School (west side)",
+        "totalCost": 21785.05,
+        "constructionYear": "2008",
+        "constructionCost": 21785.05,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5082573890686,
+            39.13972202910012
+          ],
+          [
+            -86.50819301605225,
+            39.13707994085119
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "JEFFERSON-1",
+        "description": "Sidewalk on Jefferson Street from 7th to 8th Street (east side)",
+        "totalCost": 114000,
+        "constructionYear": "2005",
+        "constructionCost": 114000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50715231895447,
+            39.169473000651514
+          ],
+          [
+            -86.50714695453642,
+            39.16824610500171
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KINSER-1",
+        "description": "Kinser Pike from Marathon Station to SR 45/46 (west side)",
+        "totalCost": 54751.14,
+        "constructionYear": "2009",
+        "constructionCost": 54751.14,
+        "councilDistrict": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5379199385643,
+            39.18637286931817
+          ],
+          [
+            -86.53785288333893,
+            39.18632921101387
+          ],
+          [
+            -86.53780192136765,
+            39.1861712093049
+          ],
+          [
+            -86.53780192136765,
+            39.18586559972836
+          ],
+          [
+            -86.5378126502037,
+            39.185643148384635
+          ],
+          [
+            -86.53787702322006,
+            39.18552464597953
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "KINSER-2",
+        "description": "Kinser Pike – North of 17th Street to Apartments (East Side)",
+        "totalCost": 181919.8,
+        "designYear": "2014",
+        "designCost": 38068.8,
+        "constructionYear": "2015",
+        "constructionCost": 143851,
+        "councilDistrict": "2"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53767049312592,
+            39.181416439088764
+          ],
+          [
+            -86.53767049312592,
+            39.17913769450175
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "LEONARD-1",
+        "description": "Leonard Springs Pedestrian Project (Walmart Entrance south to Tapp Road (East Side)",
+        "totalCost": 15000,
+        "constructionYear": "2014",
+        "constructionCost": 15000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.58255457878113,
+            39.14063737513129
+          ],
+          [
+            -86.58252239227295,
+            39.13683445045228
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MADISON-1",
+        "description": "Construction – Madison Street from Third Street to Prospect Street High Speed Tire (east side)",
+        "totalCost": 43773,
+        "constructionYear": "2009",
+        "constructionCost": 43773,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53732717037201,
+            39.16459440418446
+          ],
+          [
+            -86.53733253479004,
+            39.16375423662301
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MARILYN-1",
+        "description": "Marilyn (south side) -- Nancy to High Street",
+        "totalCost": 355478.54000000004,
+        "designYear": "2005",
+        "designCost": 11497.54,
+        "constructionYear": "2010",
+        "constructionCost": 189937,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51108980178833,
+            39.15357576617791
+          ],
+          [
+            -86.50860071182251,
+            39.15357576617791
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-1",
+        "description": "Sidewalk on Maxwell Lane from Clifton Sidepath to High Street (north side)",
+        "totalCost": 65175,
+        "constructionYear": "2005",
+        "constructionCost": 65175,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.5097165107727,
+            39.15779167011801
+          ],
+          [
+            -86.50848805904388,
+            39.15779790955182
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-2",
+        "description": "Design - East Maxwell Lane – Highland to Sheridan (north side)",
+        "totalCost": 10000,
+        "designYear": "2006",
+        "designCost": 10000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51772558689117,
+            39.157835346143145
+          ],
+          [
+            -86.5146142244339,
+            39.15782702690234
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-3",
+        "description": "Maxwell Lane, Highland to Jordan (North Side)",
+        "totalCost": 87000,
+        "constructionYear": "2013",
+        "constructionCost": 87000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51638984680176,
+            39.15784782500247
+          ],
+          [
+            -86.51772558689117,
+            39.15786446347815
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-4",
+        "description": "Maxwell Lane, Jordan to Sheriden (North Side)",
+        "totalCost": 96279.38,
+        "constructionYear": "2014",
+        "constructionCost": 96279.38,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51634693145752,
+            39.15784782500247
+          ],
+          [
+            -86.51460349559784,
+            39.15783742595317
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MAXWELL-5",
+        "description": "Maxwell St from E. Miller Drive to north of E. Short St. (West Side)",
+        "totalCost": 136000,
+        "constructionYear": "2020",
+        "constructionCost": 123000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51508629322052,
+            39.1467823673672
+          ],
+          [
+            -86.51507556438446,
+            39.14406981675275
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MITCHELL-1",
+        "description": "Mitchell Street – From Maxwell Lane to Circle Drive (East Side)",
+        "totalCost": 997000,
+        "designYear": "2016",
+        "designCost": 22000,
+        "constructionYear": "2019",
+        "constructionCost": 777000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51368618011475,
+            39.157752153690964
+          ],
+          [
+            -86.51371836662292,
+            39.156911904410116
+          ],
+          [
+            -86.51378273963928,
+            39.15633786695389
+          ],
+          [
+            -86.51393294334412,
+            39.15592189485627
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-1",
+        "description": "Moore’s Pike from College Mall Road to Woodruff (South Side)",
+        "totalCost": 241758,
+        "constructionYear": "2019",
+        "constructionCost": 195000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.49825811386108,
+            39.15043083269472
+          ],
+          [
+            -86.49714231491089,
+            39.15045579303757
+          ],
+          [
+            -86.49637520313263,
+            39.15043083269472
+          ],
+          [
+            -86.49529695510864,
+            39.15037675192151
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-2",
+        "description": "Moore’s Pike and Olcott Boulevard – Pedestrian Crossing",
+        "totalCost": 18500,
+        "constructionYear": "2013",
+        "constructionCost": 18500,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48494362831116,
+            39.150222829493366
+          ],
+          [
+            -86.48494899272917,
+            39.15014794819037
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-4",
+        "description": "Moore’s Pike and Clarizz Pedestrian Crossing",
+        "totalCost": 103000,
+        "constructionYear": "2018",
+        "constructionCost": 95000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.4915432035923,
+            39.15041003240224
+          ],
+          [
+            -86.4915432035923,
+            39.150225949545906
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MOORES-5",
+        "description": "E. Moore’s Pike / S. Smith Road intersection crossing",
+        "totalCost": 28000,
+        "constructionYear": "2020",
+        "constructionCost": 28000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48055285215378,
+            39.15031123092905
+          ],
+          [
+            -86.48056089878082,
+            39.15015626833909
+          ],
+          [
+            -86.48033291101456,
+            39.15015106824625
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MORNINGSIDE-1",
+        "description": "Morningside Drive (North side) – Smith Road to Saratoga",
+        "totalCost": 13929,
+        "constructionYear": "2011",
+        "constructionCost": 13929,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48119658231735,
+            39.166285107004086
+          ],
+          [
+            -86.48079425096512,
+            39.166318379960565
+          ],
+          [
+            -86.4804294705391,
+            39.1664181987355
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "MORNINGSIDE-2",
+        "description": "Morningside Drive – Saratoga to Sheffield (North Side)",
+        "totalCost": 19866,
+        "constructionYear": "2012",
+        "constructionCost": 19866,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48040533065796,
+            39.16642443740422
+          ],
+          [
+            -86.47968649864197,
+            39.16692352910975
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "NANCY-1",
+        "description": "Sidewalk on Nancy Street from Ruby Lane to Marilyn Drive (west side)",
+        "totalCost": 45627.52,
+        "constructionYear": "2005",
+        "constructionCost": 45627.52,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51111125946045,
+            39.15462820591581
+          ],
+          [
+            -86.51109784841537,
+            39.153613205015695
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QUEENS-1",
+        "description": "Sidewalk on Queens Way from Chelsey to Sussex (south side)",
+        "totalCost": 35729,
+        "constructionYear": "2005",
+        "constructionCost": 35729,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50544106960297,
+            39.14631641518851
+          ],
+          [
+            -86.50570929050446,
+            39.14637049908178
+          ],
+          [
+            -86.50603115558624,
+            39.146412102048316
+          ],
+          [
+            -86.50711476802826,
+            39.14639546086464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "QUEENS-2",
+        "description": "Queens Way - Sussex to High (south side)",
+        "totalCost": 25969.68,
+        "constructionYear": "2006",
+        "constructionCost": 25969.68,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50716304779053,
+            39.14639546086464
+          ],
+          [
+            -86.50826275348663,
+            39.14638714027134
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROCKPORT-1",
+        "description": "Rockport Road – Aquisition of Right-of-Way – Coolidge North 310 Feet (West side)",
+        "totalCost": 34560,
+        "constructionYear": "2012",
+        "constructionCost": 34560,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54405951499939,
+            39.141261467874536
+          ],
+          [
+            -86.54338359832764,
+            39.1419854085254
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROCKPORT-2",
+        "description": "Rockport Road – West Pinehurst Drive to South of Graham Drive (West Side)",
+        "totalCost": 222000,
+        "constructionYear": "2017",
+        "constructionCost": 200000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54682487249374,
+            39.13830321923221
+          ],
+          [
+            -86.54522895812988,
+            39.139959188077746
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "ROOSEVELT-1",
+        "description": "Roosevelt Street - Fourth to Fifth (east side)",
+        "totalCost": 133665.41,
+        "designYear": "2005",
+        "designCost": 6395.62,
+        "constructionYear": "2006",
+        "constructionCost": 127269.79,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50602579116821,
+            39.16677380196996
+          ],
+          [
+            -86.505988240242,
+            39.16563004246845
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SARE-1",
+        "description": "Sare Road Island Crossing at Winston Street and Spicewood Lane",
+        "totalCost": 95000,
+        "constructionYear": "2017",
+        "constructionCost": 95000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.49688482284546,
+            39.14510575716253
+          ],
+          [
+            -86.49714231491089,
+            39.14508911567001
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SARE-1",
+        "description": "Sare Road Island Crossing at Winston Street and Spicewood Lane",
+        "totalCost": 190000,
+        "constructionYear": "2017",
+        "constructionCost": 95000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.49671316146849,
+            39.140895334135955
+          ],
+          [
+            -86.4964771270752,
+            39.1408870128925
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SECOND-1",
+        "description": "Construction – East 2nd Street from Woodcrest for one parcel east (north side)",
+        "totalCost": 37319,
+        "designYear": "2006",
+        "designCost": 5000,
+        "constructionYear": "2008",
+        "constructionCost": 32319,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50243699550629,
+            39.1609841081322
+          ],
+          [
+            -86.50143921375275,
+            39.1609841081322
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-1",
+        "description": "Construction – West 17th from Lindbergh to Arlington Park Drive",
+        "totalCost": 27337.21,
+        "constructionYear": "2008",
+        "constructionCost": 27337.21,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.55268549919128,
+            39.17905348765249
+          ],
+          [
+            -86.55322328209877,
+            39.17906804192995
+          ],
+          [
+            -86.55330374836922,
+            39.179038933372034
+          ],
+          [
+            -86.55431762337685,
+            39.17904725010409
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-2",
+        "description": "West 17th – Construction of a Sidewalk Madison to College Avenue (South Side)",
+        "totalCost": 283837,
+        "designYear": "2011",
+        "designCost": 15638,
+        "constructionYear": "2013",
+        "constructionCost": 268199,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53769195079803,
+            39.178954726404484
+          ],
+          [
+            -86.53477370738983,
+            39.178946409661485
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTEEN-3",
+        "description": "West 17th – Acquistion (Four parcels west of Maple to Madison (South Side)",
+        "totalCost": 128810.3,
+        "designYear": "2014",
+        "designCost": 58810.3,
+        "constructionYear": "2015",
+        "constructionCost": 70000,
+        "councilDistrict": "1"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.54198348522186,
+            39.179017101945696
+          ],
+          [
+            -86.54149532318115,
+            39.17900046847343
+          ],
+          [
+            -86.53779923915863,
+            39.17896720151716
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTH-1",
+        "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
+        "totalCost": 193300,
+        "constructionYear": "2016",
+        "constructionCost": 55000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50032609701157,
+            39.16773662509524
+          ],
+          [
+            -86.5004226565361,
+            39.167632649150654
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SEVENTH-1",
+        "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
+        "totalCost": 248300,
+        "constructionYear": "2016",
+        "constructionCost": 55000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50045484304428,
+            39.167744943164145
+          ],
+          [
+            -86.50058627128601,
+            39.16764512627213
+          ],
+          [
+            -86.50070428848267,
+            39.16814005030493
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SHEFFIELD-1",
+        "description": "Sheffield- Construction of Missing Segments (Morningside to Providence (West Side)",
+        "totalCost": 130143,
+        "constructionYear": "2015",
+        "constructionCost": 75000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.47973477840424,
+            39.16691937002684
+          ],
+          [
+            -86.48000299930573,
+            39.167202187104664
+          ],
+          [
+            -86.48009955883026,
+            39.16747668494558
+          ],
+          [
+            -86.48010492324829,
+            39.16810469870381
+          ],
+          [
+            -86.48010492324829,
+            39.16837087502848
+          ],
+          [
+            -86.48000299930573,
+            39.16862041441792
+          ],
+          [
+            -86.47968649864197,
+            39.168828363232805
+          ],
+          [
+            -86.47934854030609,
+            39.16902383455817
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "SOUTHDOWNS-1",
+        "description": "Southdowns (southside) – Jordan to Mitchell – Construction",
+        "totalCost": 175067.25,
+        "constructionYear": "2011",
+        "constructionCost": 50662,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.51515603065491,
+            39.15521473664643
+          ],
+          [
+            -86.5147054195404,
+            39.15537280792186
+          ],
+          [
+            -86.51415288448334,
+            39.15569310915432
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "TENTH-1",
+        "description": "East 10th – Sidewalk from Smith Rd to Deckard Drive (South Side)",
+        "totalCost": 300000,
+        "designYear": "2016",
+        "designCost": 50000,
+        "constructionYear": "2017",
+        "constructionCost": 250000,
+        "councilDistrict": "3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.48256987333298,
+            39.17263579733625
+          ],
+          [
+            -86.48203879594803,
+            39.17368171392174
+          ],
+          [
+            -86.48216217756271,
+            39.17371706271947
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "THIRD-1",
+        "description": "East Third Street (north side) – Construction of Sidewalk from Bryan to Hillsdale",
+        "totalCost": 632114.96,
+        "acquisitionYear": "2009",
+        "acquisitionCost": 50000,
+        "constructionYear": "2011",
+        "constructionCost": 304811,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50821447372435,
+            39.16430741738354
+          ],
+          [
+            -86.50267839431763,
+            39.16430741738354
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "THIRD-2",
+        "description": "Third Street – Overhill Drive to Travel Lodge (North Side)",
+        "totalCost": 154474,
+        "constructionYear": "2012",
+        "constructionCost": 154474,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50162428617477,
+            39.16427622309547
+          ],
+          [
+            -86.49960458278656,
+            39.1642741434758
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "UNION-1",
+        "description": "Union Street – Sidewalk from 4th to 7th (West Side) – Design",
+        "totalCost": 32000,
+        "designYear": "2016",
+        "designCost": 32000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50946974754333,
+            39.165580132539425
+          ],
+          [
+            -86.50953412055969,
+            39.16805063151476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WALNUT-1",
+        "description": "Walnut Street from Winston Thomas to National Guard",
+        "totalCost": 76000,
+        "constructionYear": "2018",
+        "constructionCost": 63000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53153896331787,
+            39.128786884524054
+          ],
+          [
+            -86.53163552284241,
+            39.12587388838541
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WALNUT-2",
+        "description": "S. Walnut Street – from E. Winslow Rd to E. Ridgeview Drive (East Side)",
+        "totalCost": 32000,
+        "constructionYear": "2020",
+        "constructionCost": 32000,
+        "councilDistrict": "5"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.53136193752289,
+            39.13201184686105
+          ],
+          [
+            -86.53136730194092,
+            39.13277749364539
+          ],
+          [
+            -86.53133511543274,
+            39.134758149964824
+          ],
+          [
+            -86.53107225894928,
+            39.13592321589337
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "WINFIELD-1",
+        "description": "Sidewalk on Winfield Road from Fairoaks Lane to existing Sidewalk south of Rechter Road (east side)",
+        "totalCost": 27000,
+        "constructionYear": "2005",
+        "constructionCost": 27000,
+        "councilDistrict": "4"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -86.50118708610535,
+            39.15291018351507
+          ],
+          [
+            -86.50203466415405,
+            39.15380039890572
+          ],
+          [
+            -86.50213122367857,
+            39.15397511275382
+          ],
+          [
+            -86.50217950344086,
+            39.154274621198475
+          ]
+        ]
+      }
+    }
+  ]
+}
