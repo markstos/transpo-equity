@@ -26,6 +26,10 @@ The following public data sources have been located in GeoJSON format.
  * [Bloomington, In City Maintained Streets](https://data.bloomington.in.gov/dataset/city-maintained-streets-gis-data) (GeoJSON[](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:CityMaintainedStreets&outputFormat=application/json&srsName=EPSG:4326))
  * Council Sidewalk Reports from 2004 - 2020
 
+## Interactive Map
+
+Explore an [interactive map](https://markstos.github.com/transpo-equity/mapbox.html) of some of the data layers available so far.
+
 
 ## Desired Data Sources
 
