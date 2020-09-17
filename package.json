@@ -1,10 +1,19 @@
 {
   "dependencies": {
     "@turf/boolean-within": "^6.0.1",
+    "@turf/buffer": "^5.1.5",
+    "@turf/difference": "^6.0.2",
+    "@turf/helpers": "^6.1.4",
     "csv": "^5.3.2",
+    "geojson-merge": "^0.3.0",
     "jsonlint": "^1.6.3",
     "ogr2ogr": "^2.0.1",
     "reproject": "^1.2.6"
   },
-  "engines" : { "node" : ">=14" }
+  "engines": {
+    "node": ">=14"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
 }

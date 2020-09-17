@@ -22,7 +22,8 @@ The following public data sources have been located in GeoJSON format.
  * [Census tract boundaries](./geojson/bloomington-2010-census-tracts.geojson)
  * [Bloomington, IN Neighborhood boundries](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:CityNeighborhoodAssociations&outputFormat=application%2Fjson)
  * [Bloomington, IN current Sidewalks](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:SidewalkInventory&outputFormat=application%2Fjson)
- * [Bloomington, IN Road Centerline](https://data.bloomington.in.gov/dataset/road-centerline-gis-data/resource/75f934c3-91e0-4dd8-93da-a41ee6320a92) ([GeoJSON](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:RoadCenterlines&outputFormat=application%2Fjson))
+
+ * [Bloomington, In City Maintained Streets](https://data.bloomington.in.gov/dataset/city-maintained-streets-gis-data) (GeoJSON[](https://bloomington.in.gov/geoserver/publicgis/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=publicgis:CityMaintainedStreets&outputFormat=application/json&srsName=EPSG:4326))
  * Council Sidewalk Reports from 2004 - 2020
 
 
@@ -50,12 +51,11 @@ Vector City GIS maps above were required from the Bloomingotn GIS Department on 
 ## Notes on City of Bloomington, Indiana GeoJSON Format
 
 As of September 7th, 2020, the City of Bloomington, Indiana was publishing their GeoJSON
-using the EPSG:2966 Coordinate reference system. The current GeoJSON specfication only allows
-for WSG84 as the coordinate reference system. I've recommended to Bloomington that they
-update their GeoJSON for better interopability. In the meantime, I found a tool to convert
-the coordinate reference system after downloading it:
-
-   ogr2ogr out.geojson -t_srs "WGS84" geojson/city-council-districts-2020.geojson
+using the EPSG:2966 coordinate reference system. The current GeoJSON specfication only allows
+for WSG84 as the coordinate reference system, AKA EPSG:4326. I've recommended to Bloomington that they
+update their GeoJSON for better interopability. In the meantime, when using Bloomington's Open Data Portal
+GeoJSON feeds, you can adjust or add the  `srsName` parameter in the URL to retrieve GeoJSON using
+the expected WSG84 coordinates: `srsName=EPSG:4326`
 
 ## Tools
 
@@ -87,7 +87,27 @@ The sidewalk project data will be looked at in the context of the other related 
    the City that have sub-par sidewalk facilities.
  * [Program Criteria for Sidewalk Projects](https://bloomington.in.gov/sites/default/files/2020-02/Sidewalk%20Report%20-%20FINAL%20-%20with%20signatures.pdf#page=6&zoom=200,-51,108). Page 6. These are objective criteria for sidwalks. The table there could be extracted and added to this page.
 
-## Transportation Equity Resources
+## Transportation Equity References
 
  * [Tamika Butler's CommuteCon Keynote on Transportation Equity](https://commutecon.com/commutecon-2020/transportation-equity-tamika-butler)
  * [Five Things the Bike Movement Can Do Now to Move Toward Racial Equity](https://www.centerforsocialinclusion.org/five-things-the-bike-movement-can-do-now-to-move-toward-racial-equity/)
+ * [Moving to Equity: Addressing Inequitable Effects of Transportation Policies on Minorities](https://www.racialequitytools.org/resourcefiles/sanchez-moving-to-equity-transportation-policies.pdf)
+ * [Black Lives and Policing: The Larger Context of Ghettoization](https://www.racialequitytools.org/resourcefiles/sanchez-moving-to-equity-transportation-policies.pdf)
+
+### Example of City Equity Maps
+
+### Goverment agencies with Transportation Equity Programs
+
+ * [San Antonio Equity Matrix + Demographic Indicator Map](https://cosagis.maps.arcgis.com/apps/MapSeries/index.html?appid=184271d3b89748e5b6ba183463da804a) provides an excellent reference because it includes the calculations it uses to classify census tracts by race and income before combing the two values for a final metric.
+ * [Portland, Oregon Equity Matrix Map](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=2e2252af23ed4be3a666f780cbaddfc5) According to the Portland Bureau of Transportation, national best practices say to use three variables in an equity matrix: Race, Income and Limited English Proficiency (LEP). Portland found they only had solid data for Race and Income, so they focused on those matrixes. The map linked here shows how different areas of Portland score on a combined Race + Income equity scale.
+
+  * [San Francisco Transportation Equity Audit](https://archive.sfcta.org/sites/default/files/content/Planning/SFTP2/FinalReport/Appendix%20F%20Transportation%20Equity%20Analysis.pdf) San Fransciso ran their own geospatial transportation equity audit. The report found: _for safety metrics in particular, the city’s communities of concern tend to experience disproportionately worse conditions_ Accordingly, going forward San Francisco found that _equity may be one of several criteria used to determine which projects and programs should be included in the SFTP’s financially constrained and vision investment scenarios._
+ * [Boston Region MPO Transportation Equity Program](https://www.ctps.org/equity) _the MPO identifies and maps communities in the region that exceed certain thresholds for the populations that are covered by federal laws and EOs, as well as other populations that it considers traditionally underserved by the transportation system_
+* [Book: Measuring Transport Equity](https://www.sciencedirect.com/book/9780128148181/measuring-transport-equity)
+
+
+
+
+
+
+
