@@ -22,7 +22,7 @@ title: Bloomington Sidewalk Equity Audit
 email: mark@stosberg.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sidewalk Equity Audit for Bloomington, Indiana, 2020.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/transpo-equity" # the subpath of your site, e.g. /blog
 url: "https://markstos.github.io/transpo-equity" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: MarkStosberg
 github_username:  markstos
