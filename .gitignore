@@ -107,5 +107,5 @@ dist
 private-notes.md
 
 # For Jekyll.
-vendor
+vendor/
 _site
