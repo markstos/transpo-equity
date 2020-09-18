@@ -102,4 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Private
 private-notes.md
+
+# For Jekyll.
+vendor
+_site
