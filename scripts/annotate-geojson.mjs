@@ -31,15 +31,22 @@ Data model for properties is:
   councilDistrict: 6,
 }
 
+This will crash unles you define WS_API_KEY in the environment to valid Walk Score API key.
+
 */
 
 
+import Promise from 'bluebird'
 import parse from 'csv-parse/lib/sync.js'
 import fs from 'fs'
 import boolWithin from '@turf/boolean-within'
+import turfCenter from '@turf/center'
+import fetch from 'node-fetch'
+
 
 // I think I'm missing a better way to import and rename `within`.
 const within = boolWithin.default;
+const center = turfCenter.default;
 
 let fundingFile;
 try {
@@ -60,13 +67,14 @@ var locTotalCost = {};
 // Create an object which maps district Ids to their GeoJSON boundries
 const districtToGeoJSON = extractCouncilDistricts(`../geojson/city-council-districts-2020.geojson`)
 
-fundingRows.forEach(annotateOneRow);
+//fundingRows.forEach(annotateOneRow);
+Promise.mapSeries(fundingRows, annotateOneRow)
 
 // ******************************************************************************* //
 
 // Receive one CSV row from sidewalk-funding.csv,
 // Update related GeoJSON file
-function annotateOneRow (row) {
+async function annotateOneRow (row) {
   const locFilePath = `../geojson/sidewalk-funding/${row["Location Id"]}.geojson`
   const locFileContents = fs.readFileSync(locFilePath)
   const loc = JSON.parse(locFileContents)
@@ -78,7 +86,18 @@ function annotateOneRow (row) {
 
   // Each file contains a GeoJSON FeatureCollection with one or more features.
   // If there's more than one Feature, we update the the properties for all.
-  loc.features.forEach(annotateOneFeature.bind(row));
+  loc.features = await Promise.mapSeries(loc.features, annotateOneFeature.bind(row));
+
+  // If walkscore hasn't already been calculated,
+  // add calculated center point with "walkScore" property to each project location.
+  const hasWalkScore = (feat) => feat.properties.walkScore;
+
+  if (!loc.features.some(hasWalkScore)) {
+    const centerGJ = center(loc)
+    centerGJ.properties.description = "Project Center"
+    centerGJ.properties.walkScore = await addWalkScore(centerGJ.geometry.coordinates)
+    loc.features.push(centerGJ);
+  }
 
   const updatedLocFileContent = JSON.stringify(loc, null, '  ')
   fs.writeFileSync(locFilePath, updatedLocFileContent)
@@ -90,7 +109,7 @@ function annotateOneRow (row) {
 // Modifies-by-reference.
 
 
-function annotateOneFeature (feature) {
+async function annotateOneFeature (feature) {
 
   feature.properties.id = this["Location Id"]
   feature.properties.description = this["Description"]
@@ -116,8 +135,8 @@ function annotateOneFeature (feature) {
     feature.properties.constructionCost = this["Amount"]
   }
 
-  // I'd like to figure this out later.
   feature.properties.councilDistrict = addDistrict(feature)
+  return feature;
 }
 
 // Given a path to the City Council GeoJSON file,
@@ -128,8 +147,6 @@ function extractCouncilDistricts (jsonPath) {
 
   // keys are district numbers, values are GeoJSONn boundaries
   let idToBoundaryMap = {}
-
-  let districtOneFeature;
 
   councilFeatureCollection.features.forEach(feature => {
     const districtId = feature.properties['DISTRICT']
@@ -152,8 +169,6 @@ function extractCouncilDistricts (jsonPath) {
       }
     }
   })
-
-  //fs.writeFileSync("tmp.geojson",JSON.stringify(districtOneFeature, null, '  '));
 
   return idToBoundaryMap;
 }
@@ -179,4 +194,19 @@ function addDistrict (feature) {
   return foundId;
 }
 
+async function addWalkScore (coordinates) {
+  const [lon, lat] = coordinates;
+
+  // Only the coordinates are used to calculate the walk score, but I'm required to
+  // to provide a dummy address anyway
+  const url = `https://api.walkscore.com/score?format=json&address="1 College Ave, Bloomington, IN"`
+               +`&wsapikey=${process.env.WS_API_KEY}&lat=${lat}&lon=${lon}`
+
+  const json = await (await fetch(url)).json()
+
+  // be gentle
+  await Promise.delay(1000)
+  return json.walkscore;
+
+}
 

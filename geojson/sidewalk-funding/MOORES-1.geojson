@@ -6,7 +6,7 @@
       "properties": {
         "id": "MOORES-1",
         "description": "Moore’s Pike from College Mall Road to Woodruff (South Side)",
-        "totalCost": 241758,
+        "totalCost": 265758,
         "constructionYear": "2019",
         "constructionCost": 195000,
         "councilDistrict": "4"
@@ -30,6 +30,20 @@
             -86.49529695510864,
             39.15037675192151
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49677753448486,
+          39.150416272479546
         ]
       }
     }

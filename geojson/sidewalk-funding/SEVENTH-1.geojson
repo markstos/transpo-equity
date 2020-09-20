@@ -6,7 +6,7 @@
       "properties": {
         "id": "SEVENTH-1",
         "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
-        "totalCost": 193300,
+        "totalCost": 242450,
         "constructionYear": "2016",
         "constructionCost": 55000,
         "councilDistrict": "4"
@@ -30,7 +30,7 @@
       "properties": {
         "id": "SEVENTH-1",
         "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
-        "totalCost": 248300,
+        "totalCost": 297450,
         "constructionYear": "2016",
         "constructionCost": 55000,
         "councilDistrict": "4"
@@ -50,6 +50,20 @@
             -86.50070428848267,
             39.16814005030493
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50051519274712,
+          39.167886349727794
         ]
       }
     }

@@ -90,7 +90,6 @@ background: #3074a4;
         "paint": {
           "fill-opacity": .2,
           //"fill-outline-color": "#00ccff"
-         //"line-color": "#0571b0" // blueish
         },
         'layout': {
           // make layer invisible by default
@@ -177,10 +176,6 @@ background: #3074a4;
       toggleableLayerIds.push('New Sidewalks')
 
 
-
-
-
-
       // Missing Sidewalks
       map.addSource('missing-sidewalks', { type: 'geojson', data: './geojson/2020-bloomington-indiana-city-maintained-streets-with-no-sidewalks.geojson' });
       map.addLayer({
@@ -197,6 +192,28 @@ background: #3074a4;
         },
       });
       toggleableLayerIds.push('Missing Sidewalks');
+
+      // These are supposed to be New Sidewalks requested by the public since 2014
+      // But many are sidewalk repair or maintenanced requests.
+      map.addSource('sidewalk-requests', {
+        type: 'geojson',
+        data: './geojson/2020-sidewalk-requests.geojson'
+      });
+      map.addLayer({
+        'id': 'Sidewalk Requests',
+        //j'type': 'symbol',
+        'type': 'circle',
+        'source': 'sidewalk-requests',
+        "paint": {
+          "circle-color": "#0571b0" // blueish
+        },
+        'layout': {
+          // make layer invisible by default
+          'visibility': 'none',
+          //'text-field': ['get','title']
+        },
+      });
+      toggleableLayerIds.push('Sidewalk Requests');
 
       buildMenu();
     });

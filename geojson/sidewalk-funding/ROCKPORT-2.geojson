@@ -1,5 +1,4 @@
-{
-  "type": "FeatureCollection",
+{ "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
@@ -22,6 +21,20 @@
             -86.54522895812988,
             39.139959188077746
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54602691531181,
+          39.13913120365498
         ]
       }
     }

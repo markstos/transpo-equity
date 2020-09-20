@@ -1,0 +1,1139 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-05-10T21:58:09",
+        "description": "There is a segment of the sidewalk that is completely missing.  When it rains, it turns into a large puddle that is difficult to step over."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54397583007812,
+          39.16136169433594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-05-16T01:41:31",
+        "description": "The side ends for a period. There is not a sidewalk on either side. Please fix."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4784164428711,
+          39.16419982910156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-06-25T15:55:01",
+        "description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47817993164062,
+          39.20039749145508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-07-03T09:22:55",
+        "description": "The sidewalk just north of the YMCA sign on South Highland Ave is slick with mud. Erosion from an adjacent  hillside and mud/leaves from the gutter keep the sidewalk muddy. I shoveled mud off off it for an hour earlier this week, but it needs more work. Cleaning the gutter would be a big help. Thanks!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51752471923828,
+          39.13660049438477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-07-18T21:40:25",
+        "description": "My partner and I enjoy the walking trails at Winslow Park, and live in the Winslow Farms subdivision.  We would like to request a side walk, or a better path that is along South Highland Avenue, to get onto the walking trails.  Currently, there is a path, but it is ridden with tree roots.  My partner is legally blind, and having him walk over these roots is a bit risky.  We are advocating a better entrance to the walking trails.  Thanks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51760864257812,
+          39.13776016235352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-07-21T10:49:02",
+        "description": "We have a sidewalk in front of our home that is a major tripping hazard. Tree roots have lifted the sidewalk almost 3 inches making a serious tripping hazard.  I contacted the city about 18 months ago to request to be put on the 'fix list' with us paying for the concrete, but nothing has been done.  Please can this be addressed soon.  Thank you."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50701141357422,
+          39.14221572875977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-07-24T15:41:29",
+        "description": "No ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52708435058594,
+          39.1641845703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-08-09T18:33:47",
+        "description": "sidewalk and curbs are cracked and buckled."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51956939697266,
+          39.15853500366211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-08-30T11:05:19",
+        "description": "Missing ramp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52699279785156,
+          39.16424179077148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-09-15T13:06:45",
+        "description": "Section of sidewalk is missing. Turns into a large mud puddle after rain"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54397583007812,
+          39.16136932373047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-09-18T19:19:24",
+        "description": "We need new sidewalks!!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53239440917969,
+          39.17342376708984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-09-29T17:02:24",
+        "description": "CBU removed portion of sidewalk to fix water line. Sidewalk never repaired."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53255462646484,
+          39.17280960083008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-10-13T06:29:05",
+        "description": "Please extend the sidewalk along Indiana Avenue so that it connects 17th and 15th streets. The sidewalk currently ends at the edge of the IU Credit Union."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5271224975586,
+          39.178466796875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-12-05T22:09:58",
+        "description": "Hello.  I am requesting a crosswalk be installed across Liberty Drive at Constitution Way.  There is a bus stop at this intersection, and many people--including myself--cross Liberty Drive at this point.  The traffic is often consistent and fast, thus making crossing Liberty Drive dangerous and time-consuming.  Author Solutions and BioLife are both across the street, where I and others I've observed are going to.\r\n\r\nThank you for your consideration.\r\nBrandon Williams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57686614990234,
+          39.1512336730957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2014-12-08T09:44:29",
+        "description": "There is a significant residental population in this area, especially with the Meadow Park apartments.  However, in the area specified in this request, there are no side walks, and only a tiny gravely shoulder for pedestrians and bicyclists to \"safely\" for lack of a better term, to travel westbound on 10th road.  \r\n\r\nCould we look into building better bike paths and sidewalks on that stretch of road?  The rest of 10th street has them, and N. Smith Road has bike paths that end just right where the problem area begins."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48281860351562,
+          39.17232131958008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-01-15T15:10:46",
+        "description": "I am not requesting a sidewalk, only that the city finish a sidewalk project it started a long time ago. Three years ago the city installed a new sidewalk on the south west quadrant of Kinser Pike and the 46/45 Bypass. A black fabric erosion barrier was installed and never removed. This eyesore has been in place since the completion of the project. The State of Indiana is unable to mow this area because of the obstruction. It would be nice if the city would remove this so it can once again be mowed. According to the city this area is part of the \"scenic gateway corridor\" to Bloomington. For the past few years it has been anything but scenic. Thank you for taking a look at this situation. Regards,  Jeff Stevens, Owner, Harley-Davidson of Bloomington  812-333-8300"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53809356689453,
+          39.18622970581055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-03-03T01:01:00",
+        "description": "No sidewalk on my side of street. Kids play in road."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.62027740478516,
+          39.22145843505859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-03-31T13:39:06",
+        "description": "Would like the sidewalk to connect walnut at pike and rhorer rd so that nearby residents can easily walk to Kroger."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5267562866211,
+          39.12318801879883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:15:51",
+        "description": "Walking hazard on two sections just east of Grasstree on north side of Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52240753173828,
+          39.12637710571289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:19:59",
+        "description": "Walking hazard two sections just east of Pepperchase on north side of Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52326965332031,
+          39.12591934204102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:25:01",
+        "description": "Crumbling sections at 675 Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52378845214844,
+          39.12555313110352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:27:26",
+        "description": "Walking hazard on two sections across from tennis court on north side of Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52472686767578,
+          39.12478637695312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:29:24",
+        "description": "Walking hazard on two sections just east of Laurel on north side of Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52455139160156,
+          39.12500381469727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-12T13:31:09",
+        "description": "Walking hazard on two sections just west of Laurel on north side of Heather.\r\n\r\nBuilding & Architecture, Peppergrass Homeowners Association."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5247573852539,
+          39.12484741210938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-04-20T11:49:31",
+        "description": "It's not very safe walking here"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54090118408203,
+          39.17490386962891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-07-20T09:14:21",
+        "description": "I am writing to you on behalf of the Blue Ridge Neighborhood Association Board to reaffirm our sidewalk request made on March 11th of 2014 and appearing on page 85 of the 2015 Council Sidewalk Committee Packet.\r\n\r\nAs you may know the neighborhood of Blue Ridge is bounded by College Ave on the West, Dunn Street on the East, and Old State Road 37 (and, in part, the Cascades trail) on the North. While Blue Ridge has many positive aspect, unfortunately walkability and biking accessibility to the rest of Bloomington is not one. Dunn Street is narrow, with low visibility hampered by hills, and College Avenue has high-speed traffic. Bloomington Mass Transit does not serve our neighborhood. These factors combine to make walking or biking into or out of Blue Ridge a challenge. It would be of great benefit to our neighborhood if some means could be found to connect our neighborhood via sidewalks to the rest of Bloomington and give our 220 households a means to safely access Bloomington other than by car.\r\n\r\nWith that goal in mind, we request consideration of a sidewalk on North Dunn Street connecting SR 45/46 to Tamarack and ultimately Lakewood Drive. \r\n \r\nWe thank you for considering this matter."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5287857055664,
+          39.19321441650391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-07-29T14:32:19",
+        "description": "I am visiting Norfolk, VA, and saw these signs. Bloomington needs these! :-D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54108428955078,
+          39.16918182373047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-08-01T12:36:32",
+        "description": "The ground near the cablebox is sunken which caused the other end of the section to raise up. The section affected crosses properties of 3313 S Southern Oaks Dr and 3307 S Southern Oaks Dr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50487518310547,
+          39.13142395019531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-08-31T17:07:48",
+        "description": "Many IU students and employees walk on 5th street between Hillsdale and Union.  Currently there are no sidewalks. This is a public safety issue."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50633239746094,
+          39.16683197021484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-09-04T09:06:08",
+        "description": "The curb at the end of my driveway has crumbled and large chunks of cement are blocking drainage, curb needs to be redone at end of driveway at 1737 E. Camby Lane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50994873046875,
+          39.13570785522461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-09-08T13:57:19",
+        "description": "Sidewalk repair desperately needed. Water accumulates in a small lake on what once was a sidewalk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53116607666016,
+          39.17363357543945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-09-10T09:00:14",
+        "description": "Requesting a sidewalk connection between the Eastside neighborhoods on 10th and Smith to University Elementary sidewalk on corner of 10th and Russell Road. I see many people, including parents with young children, having to walk on the busy road or in side slopes/drainage ditches if they choose to walk to school. Thank you for considering and for all that you do."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4822006225586,
+          39.17277908325195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-09-21T16:04:41",
+        "description": "The curb cut has turned into a sink hole at the southwest corner of 9th and IN.  The sidewalk on the opposite corner (north side of 9th between Indiana and Fess) is also a problem."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52708435058594,
+          39.17037582397461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2015-11-15T11:55:14",
+        "description": "Why was a ramp not installed on this brand new sidewalk?!?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52640533447266,
+          39.16046905517578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-01-02T12:06:09",
+        "description": "sidewalk floods in front house when it rains. puddle is too deep to walk through. very inconvenient."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53849792480469,
+          39.16575241088867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-03-01T14:50:19",
+        "description": "The sidewalk to the east of our front steps is cracked.  A large mud puddle stays there, such that we need to keep it covered in straw in order for pedestrians not to slip and get muddy.  This section is just next to the new sidewalks planned for the intersection of Fairview and Dodds streets.  Including this segment in your replacements and repairs will allow an efficient, strategic improvement.  Thank you."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54075622558594,
+          39.15755081176758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-03-25T16:14:44",
+        "description": "I am the President of the Eastern Height Neighborhood Association and our community has been in desperate need for sidewalks along 10th Street from  E Etter Drive through to Grandview neighborhood, as well as crosswalks to University Elementary School. The Grandview, Park Ridge East and Park Ridge neighborhood organizations are also requesting this, as well as University Elementary School. We understand the complications with the State, but a meeting is needed to begin the formal process of gaining walking access in this area. Not only will it allow our children to walk to school, but it will provide community members in Tamarron and Eastern Heights the ability to safely walk to the bus stop and access the University and downtown without the use of cars. Please contact me in order to discuss how we can help you help us. \r\nThank you very much.\r\nLauren Dula"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4817886352539,
+          39.17425155639648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-03-28T14:56:35",
+        "description": "I would like to request sidewalks along the 10th Street and a crosswalk from and to University Elementary School at Russel Rd or Tamarron Dr so that more children from neighboring communities can enjoy walking and biking to school. I understand the complications with it being a State road, but with schools and the city promoting healthy living and lifestyle, it seems that a discussion about gaining walking access in this area is important. Not only will it allow our children to walk to school, but it will provide community members in Tamarron, Eastern Heights, and nearby apartments the ability to safely access the bus stops and downtown without using cars."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4821548461914,
+          39.17361831665039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-03-28T21:07:50",
+        "description": "Need sidewalks coming up from Smith Road east towards University Elementary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4811019897461,
+          39.17458343505859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-04-27T11:22:01",
+        "description": "Our ~30 year old sidewalk is damaged and unsafe for children, the elderly, and people who aren't watching where they're going"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50178527832031,
+          39.13658142089844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-04-27T16:34:51",
+        "description": "Could someone please look at the broken sidewalk located on the street level at 1955 N. College Ave. The sidewalk was broken in several areas when the retention pond was built between Walnut and College. The sidewalk has been a hazard for years. Thanks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53521728515625,
+          39.18378829956055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-06-15T10:04:38",
+        "description": "I am a pedestrian who commutes to work about 1.3 miles northbound on Wooodlawn Monday-Friday.  Usually I scurry quickly up that street as I'm running late; sometimes I jog.  But once I get to the part of Woodlawn that borders Bryan Park, I am loathe to get myself onto the park trail during my hasty commute for a few reasons:\r\n\r\n1. The Bryan Park trail is a park trail, not a sidewalk.\r\n\r\n2. This trail doesn't go straight northward, so it is a waste of my time to follow it.\r\n\r\n3. My commute is at 7:15am when few people are out, making things unnecessarily scary for trail users when I'm quickly approaching them from behind.  This is especially true during colder months when it is dark out, and also when I'm carrying my umbrella, which looks not unlike some sort of a weapon.  (Its just an Ikea umbrella.)\r\n\r\nThis morning I was yelled at for the second time by another motorist who was displeased with my choosing to walk on Woodlawn Avenue northbound past Bryan Park.  \"There's a sidewalk over there!\" he shouted.  I had wanted to correct him and point out that its a park trail, but I didn't.  Who knows which maniac who shouts at pedestrians from their car isn't more dangerous, you know?\r\n\r\nIt would be great if there were a sidewalk that ran alongside Woodlawn Avenue past Bryan Park.  I'm not the only person who chooses to walk up the road instead of the park trail, but I admit that there are not many of us, at least at 7:15am.\r\n\r\nLet me end by saying that I am not holding out hope for a sidewalk; this probably isn't a great concern for the city.  But I can't guarantee that annoyed motorists will convince me to change my path, either.\r\n\r\nIn any case: thank you for reading and considering my request.  Have a nice day.\r\n\r\nNicholas Roberts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52256774902344,
+          39.15616607666016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-07-16T11:32:51",
+        "description": "at 933 S. Fenbrook Court, a section of sidewalk has dropped 2 3/4 inches - another place has dropped 3/4 inches"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48118591308594,
+          39.1551513671875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-08-05T16:13:21",
+        "description": "two sections of the sidewalk are sloped together so that water pools immediately after a rain. It is a heavily walked sidewalk and the puddle is definitely an inconvenience. I'm considering work on my driveway; can I/should I have the contractor improve the situation? Do I need city approval?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5320816040039,
+          39.16134262084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-08-21T20:19:38",
+        "description": "Owner has set up a drain from the basement of this house that dumps directly on the sidewalk in front of the house. The sidewalk has been a muddy mess of standing water and a fall hazard ever since. Is this a violation of city code? It seems like it would break down the side walk over time and ,again, be a fall hazard due to the muddy mess."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52689361572266,
+          39.15402221679688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-08-23T12:32:39",
+        "description": "vegetation needs to be trimmed back from sidewalk.  over-growth blocks sidewalk."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.57522583007812,
+          39.15703582763672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-09-12T12:35:58",
+        "description": "sidewalk damaged after brush cleared away with a machine.  this is the only sidewalk along tapp rd this side of rockport.  It is hidden from street, but still used.  tx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55140686035156,
+          39.13645553588867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-09-20T09:31:48",
+        "description": "The sidewalk on 9th between Grant and Lincoln St.  is crumbling and falling apart."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53009033203125,
+          39.17045974731445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-09-20T09:35:24",
+        "description": "The alley between 423 and 425 S grant st needs some attention. There are pot holes and many bad areas. We have repaved our lots already."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53012084960938,
+          39.16241455078125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-02-09T13:29:35",
+        "description": "We received a report from a resident in the neighborhood  that sidewalks across from the empty lots are raised and cracked. \r\n-Hallmark Rentals and Management"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49205017089844,
+          39.14650344848633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-10-16T23:22:05",
+        "description": "The sidewalk in front of our house has many cracks.  Some of the places it is cracked are raised up a few inches which can cause tripping.  In addition, we have pipes that run under our sidewalk and out to the street to connect to the main sewer.  The clay pipe that runs under the sidewalk has roots growing into it.  In order to replace the pipe we need to take out the sidewalk.  We are hoping that since the sidewalk needs replacing anyway, the city could let us know when the sidewalk will be torn up and replaced so we can have our plumber ready to replace the pipe while the sidewalk is up.  Thank you for staying in communication with us about when the sidewalk will be replaced with a safer one."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53125,
+          39.15592956542969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-10-25T12:50:47",
+        "description": "Ornamental grass completely obstructs sidewalk, and forces pedestrians to walk on uneven ground. Very dangerous in the early morning when it's dark and the ground is not visible. I nearly fell here this morning."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50230407714844,
+          39.15641784667969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2016-10-25T16:21:03",
+        "description": "We have a sidewalk already, but I have a question about modifying it.  We are considering having some drainage work done on our property and would like a drain/grate through the sidewalk to help with water draining.  We've seen some in the sidewalks along Blair Ave. and were curious about how to have one installed.  If this is not under your area, would you please pass along this email to the appropriate person or committee.  Thank you for your time!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54385375976562,
+          39.17406845092773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-01-06T16:51:33",
+        "description": "Did not shovel sidewalk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47603607177734,
+          39.1595458984375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-01-09T08:59:14",
+        "description": "Please install sidewalk connecting existing sidewalk and the road on the corner, crossing Branch."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54717254638672,
+          39.1567268371582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-01-09T09:01:48",
+        "description": "Please complete the sidewalk along Larkspur in between Branch and Greentree. It's been the only uncompleted sidewalk in West Pointe for years."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5474624633789,
+          39.15646743774414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-02-21T09:50:25",
+        "description": "I'm trying out a new category since no one reads the other ones I've used. Every time i walk here i have to walk in the street for half a block because people park on the sidewalk (partly because hoosier workwear had concrete blocks that force cars onto the sidewalk)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53863525390625,
+          39.16496658325195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-03-09T10:32:13",
+        "description": "A city plow ran aground taking with it the yard and sidewalk.  How can we get this repaired?  Thanks."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50703430175781,
+          39.14254379272461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-03-10T15:11:54",
+        "description": "What the heck is up with this sidewalk repair? It's been torn up for almost a month!  I would hate to be one of the residents in that area with the orange cones and equipment left in the street.  With the decent weather we've had this winter, you'd think projects such as this would be completed quicker."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52719116210938,
+          39.15932846069336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-04-05T10:01:01",
+        "description": "We recently moved to Bloomington and chose specifically to live within walking distance to our daughter's school, we're within a mile. Unfortunately, there's no viable route to her school b/c there are no sidewalks adjacent to University Elementary on 10th street.  This is a significant issue for the surrounding community.  We're new so I don't have all the numbers but there are at least 10 students at University in our neighborhood alone and based it's a safe assumption that the neighboring neighborhoods have a large number of students who are not currently provided with a safe alternative.  For a city with a great walkable/bikable reputation I would expect this to be a high priority for our city.  This is also a common route for cyclists (recreational and competitive) and seems like it would have already been addressed.  Please advise."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4822998046875,
+          39.17318725585938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-05-21T21:33:34",
+        "description": "The city fixed a busted pipe this winter and tore up the sidewalk. It is now May and the side walk is still torn up.  Please fix."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5069808959961,
+          39.14239120483398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-05-31T14:16:43",
+        "description": "I totally appreciate the desire of the city to annex more city to provide city services.  I grew up on S Hays Drive and sidewalks would have been great.  However, now I live IN the city and I still have no sidewalks.  I would LOVE all the streets in Bryan Park Neighborhood to have sidewalks.  The way they were done for the newer S Dunn street houses is great with the recessed street parking.  Why can't one of Bloomington's oldest neighborhoods have decent sidewalks?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53034973144531,
+          39.15165328979492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2017-09-01T10:39:07",
+        "description": "Incomplete/no sidewalk on side of road travelling on Allen from Strong Drive to Adams"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54882049560547,
+          39.15581893920898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-06-25T11:28:40",
+        "description": "There are several city tree's growing out of the side walk that are touching the building at 108 East 6th street that need to be trimmed back."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53305053710938,
+          39.16738510131836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-07-18T15:15:01",
+        "description": "I am the homeowner at 3817 S Woods Edge Bend. Can the city repair my sidewalk? My insurance company is saying this is necessary, and I don't know how to get this done."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51638793945312,
+          39.12644195556641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-03-04T12:41:08",
+        "description": "We would like to expand our driveway, but that would involve changing the curb and sidewalk around our current driveway.  Who do I talk to about this?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51276397705078,
+          39.15451431274414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-07-20T17:45:17",
+        "description": "Thank you in advance for reading my inquiry. I would like to suggest a sidewalk due to a safety concern that effects children and disabled persons. Referring to the intersection at E Rogers Road and the Stands Drive. There is no sidewalk along this street connecting the stands road sidewalk to the crosswalk at the roundabout a the bottom of the hill (i.e., the area on the south side of E Rogers Road). Moreover, the sidewalk on the other side of the street is completely inaccessible for those with impaired motor function or wheelchairs (there is a large hill with steps only and no ramp). There are two major concerns here: (1) there is no possible way for a disabled person with a wheelchair to travel on E Rogers road (from the roundabout at the bottom of the hill up to the stands drive). (2) There is no way for families and children to safely walk to Child's elementary from this location (the Stands dr). Given that E Rogers road is a busy street with limited visibility for drivers and no crosswalk exists at the intersection of  the Stands drive and E Rogers Road, it is extremely dangerous for children and families that wish to walk their children to the designated elementary school - Child's Elementary. This is the only direct walking path to Child's Elementary for all of the constituents that leave in the Stands neighborhood. There is no sidewalk on the south side of E Rogers Rd to connect the Stands Dr with the crosswalk at the bottom of the hill at the roundabout. Several constituents have expressed a safety concern. I also witnessed one woman and child almost get hit by a car at this busy intersection as they attempted to cross the street. I'd be happy to answer any additional questions. Thank you for reviewing my request."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50454711914062,
+          39.13592910766602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-10-05T13:49:23",
+        "description": "The sidewalk ends abruptly in a very dangerous intersection. This turn needs to be improved for pedestrian safety. The sidewalk should not be on only one side of the road, particularly in such a dangerous location for pedestrians to cross the road, just to have the sidewalk reappear only meters away."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5286865234375,
+          39.13572692871094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-11-14T11:17:21",
+        "description": "I'm an IU Bloomington student who walks to the stadium everyday to take the IU buses to class. There are no sidewalks on my walk from Brownstone Terrace to the stadium which forces me to walk on the side of the road, where student drivers who don't pay attention swerve around me at the last second. Additionally when the weather is bad, I'm even forced to walk in the road, putting myself at risk to get hit by a car. I'm also proposing more off campus lighting & would love to meet with someone about these issues to come up with an effective plan. It's unsafe walking home from a late night class or to an early morning class & not being able to see your surroundings. Some of the city lights don't even work. If more light poles were installed, it would reduce the off campus crime rate. The city of Bloomington, not IU, is reponsible to address these issues because it's there property."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52989959716797,
+          39.17547988891602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-12-06T14:55:27",
+        "description": "We received a request from a young woman living in Park Ridge East. She is concerned that there is no sidewalk on Sheffield Drive between Plymouth Road and Park Ridge Road as this is a path for children to walk to Park Ridge East Park. The bus picks up children in this area and they have no where to wait for the bus."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47610473632812,
+          39.17024230957031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2018-12-09T13:49:25",
+        "description": "West side of 500 block of S. Washington.  Sidewalk cracked, broken, and heaved up by tree growth.  Does the city claim sidewalk repair is the responsibility of adjacent property owner?  What about the goal of walkability?"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53694915771484,
+          39.17030334472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-02-19T10:01:30",
+        "description": "2 sections of upended sidewalks potentially hazardous to pedestrian traffic in front of 3712 E Silver Creek Ct. Appears to be caused by shallow tree roots."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53694152832031,
+          39.17030715942383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-02-20T21:44:55",
+        "description": "There are no sidewalks at all on S Park Ave., S. Stull Ave., or S. Fess Ave between Bryan Park and Hillside (except on Grimes St)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52397155761719,
+          39.15155410766602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-03-15T21:49:29",
+        "description": "Hello,\nWe live in the Echo Park community (2780 S. Walnut St. Pk.). We basically do not have safe walking access to the nearby Winslow Street. Families and the elderly risk their lives walking on the side of the asphalt, at a pretty dagerous intersection (cars do not have good sight when they turn to this street). Adding a short sidewalk would solve this problem. See picture attached (the problematic area is marked in red). It is a tragedy waiting to happen. \nThank you."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52831268310547,
+          39.13367080688477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-05-03T18:47:52",
+        "description": "In FYI about water meter on Fess north of 4th Street.  When I stepped on the concrete around the meter, it all levered up.  I think the gap is visible in the photo.\r\n\r\n\r\nUtilities checked area on Fess N. of Second- found no problem with meter pits- did see an open hole in tree plot marked in white.Does not appear to be utility related."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53764343261719,
+          39.16864776611328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-05-08T13:42:24",
+        "description": "Unsafe dip for wheelchair users. I myself was thrown from the charge going three to four miles an hour"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50797271728516,
+          39.1641845703125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-05-17T12:11:52",
+        "description": "This is a tree plot / water meter pit issue, a follow up on #168554. The meter in question is at 514 S Fess.  You all couldn't it because someone---safety-conscious resident maybe, or self-motivated meter reader apparently had filled the hole in with dirt and tamped it tight.  So, yes, resolved"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53694915771484,
+          39.17030334472656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-08-01T16:12:03",
+        "description": "Lot 82 and 83 -- fire hazard and overgrowth, sidewalks not ADA accessible, code violations"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54434204101562,
+          39.18274688720703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-08-07T08:13:04",
+        "description": "I would like to request sidewalks/speed bumps on Elliston Dr. in Sherwood Oaks Neighborhood.  Elliston is the main thourough fair to Sherwood Oaks Park, Jackson Creek Trail and Olcott Park, which also leads to Childs Elementary and Jackson Creek Middle School.  There is significant foot traffic daily of adults, kids and pets being walked. Children go to school on this route and yet there is nothing provided to keep them safe.  There are currently no sidewalks to keep foot traffic safe and no speed bumps to slow down traffic.  People speed through this area whether local traffic or visitors to the park and what the city has done to date is not enough.  Someone is going to get hurt and it will be on the onus of those who have chose to do nothing to keep pedestrians safe.  Please consider making a change and putting sidewalks/speed bumps in to allow for safe travels for all in this area.  \n\nThank you"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51770782470703,
+          39.12927627563477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-08-24T15:28:05",
+        "description": "Lacking accessible sidewalk ramps in Sherwood oaks neighborhood."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52128601074219,
+          39.13089370727539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "requestDate": "2019-12-30T10:21:15",
+        "description": "Comment from Josh Conway on Facebook: How about getting a sidewalk on N Crescent rd between Marquis and fountain drive???\r\nI see people forced to take wheelchairs up and down that section of city road. People in cars just keep buzzing them."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55650329589844,
+          39.17609405517578
+        ]
+      }
+    }
+  ]
+}

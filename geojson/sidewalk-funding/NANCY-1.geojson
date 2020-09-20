@@ -24,6 +24,20 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51110455393791,
+          39.15412070546576
+        ]
+      }
     }
   ]
 }

@@ -6,7 +6,7 @@
       "properties": {
         "id": "MITCHELL-1",
         "description": "Mitchell Street – From Maxwell Lane to Circle Drive (East Side)",
-        "totalCost": 997000,
+        "totalCost": 1195000,
         "designYear": "2016",
         "designCost": 22000,
         "constructionYear": "2019",
@@ -32,6 +32,20 @@
             -86.51393294334412,
             39.15592189485627
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51380956172943,
+          39.156837024273614
         ]
       }
     }

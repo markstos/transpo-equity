@@ -6,7 +6,7 @@
       "properties": {
         "id": "MARILYN-1",
         "description": "Marilyn (south side) -- Nancy to High Street",
-        "totalCost": 355478.54000000004,
+        "totalCost": 601086.54,
         "designYear": "2005",
         "designCost": 11497.54,
         "constructionYear": "2010",
@@ -24,6 +24,20 @@
             -86.50860071182251,
             39.15357576617791
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50984525680542,
+          39.15357576617791
         ]
       }
     }
