@@ -105,6 +105,7 @@ dist
 
 # Private
 private-notes.md
+private-todo.md
 
 # For Jekyll.
 vendor/

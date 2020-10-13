@@ -32,6 +32,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5311849117279,
+          39.133959208967156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ARDEN-1",
         "description": "Construction - Arden Drive – From Windsor to High Street (South Side)",
         "totalCost": 52353.5,
@@ -66,6 +80,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 17
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50887697935104,
+          39.14730655986629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ELEVENTH-1",
         "description": "Design – East 11th Street – Washington to Lincoln (north side)",
         "totalCost": 10000,
@@ -84,6 +112,20 @@
             -86.5322095155716,
             39.173507049013374
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53162747621536,
+          39.173507049013374
         ]
       }
     },
@@ -122,6 +164,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50170743465424,
+          39.16625807190859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "FOURTEEN-1",
         "description": "14th Street from Madison to Woodburn (North Side)",
         "totalCost": 342000,
@@ -142,6 +198,20 @@
             -86.53768658638,
             39.17599390372536
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53685376048088,
+          39.17599598299849
         ]
       }
     },
@@ -172,6 +242,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54187083244324,
+          39.13990509921859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "HENDERSON-1",
         "description": "Design - Henderson Street from Maxwell Lane to\nHillside Drive",
         "totalCost": 45000,
@@ -190,6 +274,20 @@
             -86.52681827545166,
             39.15063051518964
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52690410614014,
+          39.154232930666396
         ]
       }
     },
@@ -232,6 +330,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 58
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5270060300827,
+          39.153101496374035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "HENDERSON-3",
         "description": "Henderson Street from Thornton to Moody  (east side)",
         "totalCost": 148725.07,
@@ -250,6 +362,20 @@
             -86.52681827545166,
             39.14793475370361
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.52680218219757,
+          39.14831749052126
         ]
       }
     },
@@ -280,6 +406,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50822520256042,
+          39.138400984975654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "JEFFERSON-1",
         "description": "Sidewalk on Jefferson Street from 7th to 8th Street (east side)",
         "totalCost": 114000,
@@ -298,6 +438,20 @@
             -86.50714695453642,
             39.16824610500171
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50714963674545,
+          39.16885955282661
         ]
       }
     },
@@ -344,6 +498,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 60
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53786092996597,
+          39.185948757648845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "KINSER-2",
         "description": "Kinser Pike – North of 17th Street to Apartments (East Side)",
         "totalCost": 181919.8,
@@ -364,6 +532,20 @@
             -86.53767049312592,
             39.17913769450175
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 74
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53767049312592,
+          39.180277066795256
         ]
       }
     },
@@ -394,6 +576,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.58253848552704,
+          39.13873591279179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MADISON-1",
         "description": "Construction – Madison Street from Third Street to Prospect Street High Speed Tire (east side)",
         "totalCost": 43773,
@@ -418,9 +614,23 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53732985258102,
+          39.16417432040373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MARILYN-1",
         "description": "Marilyn (south side) -- Nancy to High Street",
-        "totalCost": 355478.54000000004,
+        "totalCost": 601086.54,
         "designYear": "2005",
         "designCost": 11497.54,
         "constructionYear": "2010",
@@ -438,6 +648,20 @@
             -86.50860071182251,
             39.15357576617791
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 29
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50984525680542,
+          39.15357576617791
         ]
       }
     },
@@ -468,6 +692,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5091022849083,
+          39.15779478983491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MAXWELL-2",
         "description": "Design - East Maxwell Lane – Highland to Sheridan (north side)",
         "totalCost": 10000,
@@ -486,6 +724,20 @@
             -86.5146142244339,
             39.15782702690234
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51616990566254,
+          39.15783118652274
         ]
       }
     },
@@ -516,6 +768,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51705771684647,
+          39.15785614424031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MAXWELL-4",
         "description": "Maxwell Lane, Jordan to Sheriden (North Side)",
         "totalCost": 96279.38,
@@ -534,6 +800,20 @@
             -86.51460349559784,
             39.15783742595317
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51547521352768,
+          39.15784262547782
         ]
       }
     },
@@ -564,9 +844,23 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51508092880249,
+          39.14542609205998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MITCHELL-1",
         "description": "Mitchell Street – From Maxwell Lane to Circle Drive (East Side)",
-        "totalCost": 997000,
+        "totalCost": 1195000,
         "designYear": "2016",
         "designCost": 22000,
         "constructionYear": "2019",
@@ -598,9 +892,23 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 49
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51380956172943,
+          39.156837024273614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MOORES-1",
         "description": "Moore’s Pike from College Mall Road to Woodruff (South Side)",
-        "totalCost": 241758,
+        "totalCost": 265758,
         "constructionYear": "2019",
         "constructionCost": 195000,
         "councilDistrict": "4"
@@ -624,6 +932,20 @@
             -86.49529695510864,
             39.15037675192151
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 67
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49677753448486,
+          39.150416272479546
         ]
       }
     },
@@ -654,6 +976,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48494631052017,
+          39.15018538884187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MOORES-4",
         "description": "Moore’s Pike and Clarizz Pedestrian Crossing",
         "totalCost": 103000,
@@ -672,6 +1008,20 @@
             -86.4915432035923,
             39.150225949545906
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4915432035923,
+          39.150317990974074
         ]
       }
     },
@@ -706,6 +1056,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48044690489769,
+          39.150231149587654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "MORNINGSIDE-1",
         "description": "Morningside Drive (North side) – Smith Road to Saratoga",
         "totalCost": 13929,
@@ -728,6 +1092,20 @@
             -86.4804294705391,
             39.1664181987355
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 47
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48081302642822,
+          39.16635165286979
         ]
       }
     },
@@ -758,6 +1136,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.48004591464996,
+          39.166673983256985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "NANCY-1",
         "description": "Sidewalk on Nancy Street from Ruby Lane to Marilyn Drive (west side)",
         "totalCost": 45627.52,
@@ -776,6 +1168,20 @@
             -86.51109784841537,
             39.153613205015695
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 28
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51110455393791,
+          39.15412070546576
         ]
       }
     },
@@ -814,6 +1220,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50627791881561,
+          39.14636425861841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "QUEENS-2",
         "description": "Queens Way - Sussex to High (south side)",
         "totalCost": 25969.68,
@@ -832,6 +1252,20 @@
             -86.50826275348663,
             39.14638714027134
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50771290063858,
+          39.146391300567984
         ]
       }
     },
@@ -862,6 +1296,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54372155666351,
+          39.14162343819997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "ROCKPORT-2",
         "description": "Rockport Road – West Pinehurst Drive to South of Graham Drive (West Side)",
         "totalCost": 222000,
@@ -880,6 +1328,20 @@
             -86.54522895812988,
             39.139959188077746
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.54602691531181,
+          39.13913120365498
         ]
       }
     },
@@ -906,6 +1368,20 @@
             -86.505988240242,
             39.16563004246845
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 65
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50600701570511,
+          39.1662019222192
         ]
       }
     },
@@ -960,6 +1436,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 26
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.49680972099304,
+          39.142996385027516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "SECOND-1",
         "description": "Construction – East 2nd Street from Woodcrest for one parcel east (north side)",
         "totalCost": 37319,
@@ -980,6 +1470,20 @@
             -86.50143921375275,
             39.1609841081322
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50193810462952,
+          39.1609841081322
         ]
       }
     },
@@ -1018,6 +1522,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55350156128407,
+          39.17905348765099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "SEVENTEEN-2",
         "description": "West 17th – Construction of a Sidewalk Madison to College Avenue (South Side)",
         "totalCost": 283837,
@@ -1038,6 +1556,20 @@
             -86.53477370738983,
             39.178946409661485
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53623282909393,
+          39.17895056803299
         ]
       }
     },
@@ -1074,9 +1606,23 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53989136219025,
+          39.17899215173143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "SEVENTH-1",
         "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
-        "totalCost": 193300,
+        "totalCost": 242450,
         "constructionYear": "2016",
         "constructionCost": 55000,
         "councilDistrict": "4"
@@ -1100,7 +1646,7 @@
       "properties": {
         "id": "SEVENTH-1",
         "description": "East 7th Street Ramp from 45/46 to 7th (West Side)",
-        "totalCost": 248300,
+        "totalCost": 297450,
         "constructionYear": "2016",
         "constructionCost": 55000,
         "councilDistrict": "4"
@@ -1120,6 +1666,20 @@
             -86.50070428848267,
             39.16814005030493
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50051519274712,
+          39.167886349727794
         ]
       }
     },
@@ -1174,6 +1734,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 37
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47972673177719,
+          39.1679716022925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "SOUTHDOWNS-1",
         "description": "Southdowns (southside) – Jordan to Mitchell – Construction",
         "totalCost": 175067.25,
@@ -1196,6 +1770,20 @@
             -86.51415288448334,
             39.15569310915432
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.51465445756912,
+          39.15545392290038
         ]
       }
     },
@@ -1232,9 +1820,23 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4823043346405,
+          39.17317643002786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "THIRD-1",
         "description": "East Third Street (north side) – Construction of Sidewalk from Bryan to Hillsdale",
-        "totalCost": 632114.96,
+        "totalCost": 909418.92,
         "acquisitionYear": "2009",
         "acquisitionCost": 50000,
         "constructionYear": "2011",
@@ -1252,6 +1854,20 @@
             -86.50267839431763,
             39.16430741738354
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.505446434021,
+          39.16430741738354
         ]
       }
     },
@@ -1282,6 +1898,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 76
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50061443448067,
+          39.16427518328564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "UNION-1",
         "description": "Union Street – Sidewalk from 4th to 7th (West Side) – Design",
         "totalCost": 32000,
@@ -1306,6 +1936,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.50950193405151,
+          39.166815382027096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "WALNUT-1",
         "description": "Walnut Street from Winston Thomas to National Guard",
         "totalCost": 76000,
@@ -1324,6 +1968,20 @@
             -86.53163552284241,
             39.12587388838541
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.53158724308014,
+          39.12733038645473
         ]
       }
     },
@@ -1362,6 +2020,20 @@
     {
       "type": "Feature",
       "properties": {
+        "description": "Project Center",
+        "walkScore": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5312197804451,
+          39.13396753137721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "id": "WINFIELD-1",
         "description": "Sidewalk on Winfield Road from Fairoaks Lane to existing Sidewalk south of Rechter Road (east side)",
         "totalCost": 27000,
@@ -1388,6 +2060,20 @@
             -86.50217950344086,
             39.154274621198475
           ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "description": "Project Center",
+        "walkScore": 53
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5016832947731,
+          39.15359240235677
         ]
       }
     }
