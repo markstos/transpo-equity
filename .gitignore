@@ -104,8 +104,7 @@ dist
 .tern-port
 
 # Private
-private-notes.md
-private-todo.md
+private-*
 
 # For Jekyll.
 vendor/
